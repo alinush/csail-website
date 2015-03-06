@@ -1,0 +1,17 @@
+<h1>Cheatsheets</h1>
+
+<h2>SSH</h2>
+
+<h3>Setting up an SSH tunnel</h3>
+
+<p>Suppose you have a machine at <code>server.com</code> that has a service running on port 3333, but you cannot
+access that port on <code>server.com</code> due to a firewall.</p>
+
+<p>You can <em>forward</em> that port to a local port 9999 on your machine, if you can SSH into <code>server.com</code></p>
+
+<pre><code>ssh -f -N -L 9999:127.0.0.1:3333 user@server.com
+
+
+-f puts ssh in background
+-N makes it not execute a remote command
+</code></pre>
