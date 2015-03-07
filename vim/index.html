@@ -1,0 +1,75 @@
+<p><strong>TODO:</strong> this page needs to be reachable from http://alinush.org/2012/08/05/vim-cheatsheet/</p>
+
+<h3>Commands</h3>
+
+<p><code>u</code> - Undo <br />
+<code>Ctrl+R</code> - Redo <br />
+<code>y</code> - Copy <br />
+<code>d</code> - Cut <br />
+<code>v</code> - Paste <br />
+<code>/\&lt;l\&gt;</code> - Search for single letter <code>l</code> <br />
+<code>/pattern</code> - Search for 'pattern' <br />
+<code>:set ignorecase</code> - Sets the default search mode to case insensitive <br />
+<code>:set number</code> - Displays line numbers <br />
+<code>/pattern\c</code> - Search for 'pattern' (case insensitive) <br />
+<code>/\cpattern</code> - Search for 'pattern' (case insensitive) <br />
+<code>/pat\ctern</code> - Search for 'pattern' (case insensitive) <br />
+<code>:%s/search/replace/g</code> - Replace 'search' with 'replace' in the entire file <br />
+<code>Ctrl+w, v</code> - Split window vertically <br />
+<code>Ctrl+w, s</code> - Split window horizontally <br />
+<code>Ctrl+w, w</code> - Switch between split windows <br />
+<code>Ctrl+w, q</code> - Quit a window <br />
+<code>Shift+g</code> - Go to end of file <br />
+<code>gg</code> - Go to beginning of file <br />
+<code>Ctrl+v, Tab</code> - Insert a real tab ('\t') character. Useful when you have spaces set instead of tabs. <br />
+<code>&gt;&gt;</code> - Indent a line <br />
+<code>3&gt;&gt;</code> - Indent a line three times <br />
+<code>Shift+v, jj&gt;</code> - Select &amp; indent two lines <br />
+<code>&gt;%</code> - Indent a bracketed block (move cursor to starting bracket {) <br />
+<code>]p</code> - Paste &amp; indent code  </p>
+
+<h3>Replace matched group</h3>
+
+<p>I wanted to search for 2 leading spaces followed by any uppercase character
+and insert " * " followed by  that upper case character. So I needed to refer to that matched character:</p>
+
+<pre><code>:%s/^  \([A-Z]\)/ * \1/g
+</code></pre>
+
+<p>The <code>^</code> refers to the beginning of a line, the <code>\(</code> and <code>\)</code> are for grouping a match. The <code>[A-Z]</code> matches any single upper case character. The <code>\1</code> refers to the uppercase character matched in <code>\([A-Z]\)</code>.</p>
+
+<h3>Search for something with <code>/</code> then replace it with <code>%s</code></h3>
+
+<pre><code>/keyword
+:%s//new_keyword/g
+</code></pre>
+
+<h3>Replace a visually selected yanked block</h3>
+
+<p>You have to press <code>y</code> for yanking and then type in <code>:%s/</code> and then press <code>Ctrl+R</code> and then press <code>"</code> to get the text to show up in in the <code>%s/&lt;here&gt;/</code> section.</p>
+
+<pre><code>y:%s/&lt;Ctrl+R&gt;"/new text/g
+</code></pre>
+
+<h3>Change each 'foo' to 'bar' for all lines from the current line (.) to the last line ($) inclusive</h3>
+
+<pre><code>:.,$s/foo/bar/g
+</code></pre>
+
+<h3>Display whitespace characters (tabs, spaces, newlines, etc.)</h3>
+
+<pre><code>:set list
+</code></pre>
+
+<p>If you want to change the way they are displayed you can use <code>listchars</code>:</p>
+
+<pre><code>:set listchars=eol:$,tab:&gt;-,trail:~,extends:&gt;,precedes:&lt;
+</code></pre>
+
+<h3>References</h3>
+
+<ul>
+<li><a href="http://www.worldtimzone.com/res/vi.html">http://www.worldtimzone.com/res/vi.html</a></li>
+<li><a href="http://www.tuxfiles.org/linuxhelp/vimcheat.html">http://www.tuxfiles.org/linuxhelp/vimcheat.html</a></li>
+<li><a href="http://stackoverflow.com/questions/235839/how-do-i-indent-multiple-lines-quickly-in-vi">http://stackoverflow.com/questions/235839/how-do-i-indent-multiple-lines-quickly-in-vi</a></li>
+</ul>

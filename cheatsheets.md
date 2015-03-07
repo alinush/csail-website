@@ -4,40 +4,8 @@ Cheatsheets
 [Bash](bash/)
 -------------
 
-ViM
----
-
-### Replace matched group
-
-I wanted to search for 2 leading spaces followed by any uppercase character
-and insert " * " followed by  that upper case character. So I needed to refer to that matched character:
-
-    :%s/^  \([A-Z]\)/ * \1/g
-
-The `^` refers to the beginning of a line, the `\(` and `\)` are for grouping a match. The `[A-Z]` matches any single upper case character. The `\1` refers to the uppercase character matched in `\([A-Z]\)`.
-
-### Search for something with `/` then replace it with `%s`
-
-    /keyword
-    :%s//new_keyword/g
-
-### Replace a visually selected yanked block
-
-You have to press `y` for yanking and then type in `:%s/` and then press `Ctrl+R` and then press `"` to get the text to show up in in the `%s/<here>/` section.
-
-    y:%s/<Ctrl+R>"/new text/g
-
-### Change each 'foo' to 'bar' for all lines from the current line (.) to the last line ($) inclusive
-    
-    :.,$s/foo/bar/g
-
-### Display whitespace characters (tabs, spaces, newlines, etc.)
-
-    :set list
-
-If you want to change the way they are displayed you can use `listchars`:
-
-    :set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
+[ViM](vim/)
+-----------
 
 SSH
 ---

@@ -1,5 +1,8 @@
 **TODO:** make sure this is accessible at http://alinush.org/2012/06/06/linux-cheatsheet/
 
+Bash
+----
+
 ### Searching PDFs
 
     find /path -name '*.pdf' -exec sh -c 'pdftotext "{}" - | grep --with-filename --label="{}" --color "your pattern"' \;
