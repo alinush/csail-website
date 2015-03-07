@@ -1,6 +1,9 @@
 Cheatsheets
 ===========
 
+[Bash](bash/)
+-------------
+
 ViM
 ---
 
@@ -59,27 +62,6 @@ You can simplify this whole process with a config file.
         IdentityFile ~/.ssh/private.key
         LocalForward 3333 127.0.0.1:9999
         User user
-
-Bash
-----
-
-More on Bash [here](bash/).
-
-### Strings
-
-    string="some string"
-     
-    ${#string}            # return length of string
-    ${string#substring}   # remove shortest match of substring from front
-    ${string##substring}  # remove longest match of substring from front
-    ${string%substring}   # remove shortest match of substring from the end
-    ${string%%substring}  # remove longest match of substring from the end
-     
-More [here](http://tldp.org/LDP/abs/html/string-manipulation.html)
-
-### Searching PDFs
-
-    find /path -name '*.pdf' -exec sh -c 'pdftotext "{}" - | grep --with-filename --label="{}" --color "your pattern"' \;
 
 sed
 ---

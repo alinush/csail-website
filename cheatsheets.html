@@ -1,5 +1,7 @@
 <h1>Cheatsheets</h1>
 
+<h2><a href="bash/">Bash</a></h2>
+
 <h2>ViM</h2>
 
 <h3>Replace matched group</h3>
@@ -63,28 +65,6 @@ access that port on <code>server.com</code> due to a firewall.</p>
     IdentityFile ~/.ssh/private.key
     LocalForward 3333 127.0.0.1:9999
     User user
-</code></pre>
-
-<h2>Bash</h2>
-
-<p>More on Bash <a href="bash/">here</a>.</p>
-
-<h3>Strings</h3>
-
-<pre><code>string="some string"
-
-${#string}            # return length of string
-${string#substring}   # remove shortest match of substring from front
-${string##substring}  # remove longest match of substring from front
-${string%substring}   # remove shortest match of substring from the end
-${string%%substring}  # remove longest match of substring from the end
-</code></pre>
-
-<p>More <a href="http://tldp.org/LDP/abs/html/string-manipulation.html">here</a></p>
-
-<h3>Searching PDFs</h3>
-
-<pre><code>find /path -name '*.pdf' -exec sh -c 'pdftotext "{}" - | grep --with-filename --label="{}" --color "your pattern"' \;
 </code></pre>
 
 <h2>sed</h2>
