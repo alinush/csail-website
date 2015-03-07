@@ -1,0 +1,71 @@
+Argument handling
+-----------------
+
+Code:
+
+    scriptdir=$(dirname $(readlink -f $0))
+
+    function print_usage() {
+	    echo "Usage: $0 [OPTIONS]"
+	    echo
+	    echo "OPTIONS:"
+	    echo "  -m, --multi-param [param1 param2 ... paramN]"
+	    echo "  -o, --optional-param [param]"
+	    echo "  -s, --enable-smth"
+	    echo "  -l, --log-file <file>"
+	    echo "  -h, --help     displays this help message"
+	    echo
+    }
+
+    multi_param=
+    optional_param=
+    smth="false"
+    logfile=
+
+    while true; do
+        case "$1" in
+            --multi-param | -m )
+                shift || break
+                while [ "${1:0:1}" != "-" -a -n "$1" ]; do
+                    multi_param="$multi_param $1"
+                    shift || break
+                done ;;
+            --optional-param | -o )
+                shift || break
+                if [ "${1:0:1}" != "-" -a -n "$1" ]; then
+                    optional_param=$1
+                shift || break
+                fi ;;
+            --log-file | -l )
+                [ -n "$2" ] && {
+                    logfile="$2";
+                    shift 2 || break;
+                }
+                
+                [ -z "$2" ] && shift || break
+                
+                ;;
+            --enable-smth | -s )
+                smth="true"
+                shift 1 || break ;;
+            --help | -h )
+                print_usage
+                exit 0 ;;
+            * )
+                if [ -n "$1" ]; then
+                    echo "WARNING: Unknown argument given: '$1'"
+                    # TODO: exit 1 when bad args are given, if desirable
+                fi
+                shift || break ;;
+            esac
+    done
+
+    echo "Script started in directory `pwd` (stored in $scriptdir)"
+    echo 
+    echo "PARAMETERS:"
+    echo "==========="
+    echo "multi-param:     $multi_param"
+    echo "optional-param:  $optional_param"
+    echo "log-file:        $logfile"
+    echo "smth:            $smth"
+    echo "[remaining]:     $@"
