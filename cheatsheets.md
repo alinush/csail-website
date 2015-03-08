@@ -7,6 +7,9 @@ Cheatsheets
 [ViM](vim/)
 -----------
 
+[Git](git/)
+-----------
+
 SSH
 ---
 

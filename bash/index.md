@@ -3,6 +3,24 @@
 Bash
 ----
 
+### Changing leading tabs to spaces
+
+    sed -ri ':a;s/^( *)\t/\1    /;ta' <path-to-file>
+
+Or you can used `indent` but you have to use temporary files:
+
+    expand -i -t 4 input > output
+
+...for multiple files:
+
+    expand_f () {
+      expand -i -t 4 "$1" > "$1.tmp"
+      mv "$1.tmp" "$1"
+    }
+
+    export -f expand_f
+    find -type f -iname '*.c' -exec bash -c 'expand_f {}' \;
+
 ### Searching PDFs
 
     find /path -name '*.pdf' -exec sh -c 'pdftotext "{}" - | grep --with-filename --label="{}" --color "your pattern"' \;
