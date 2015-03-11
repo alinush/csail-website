@@ -37,6 +37,14 @@ and insert " * " followed by  that upper case character. So I needed to refer to
 
 The `^` refers to the beginning of a line, the `\(` and `\)` are for grouping a match. The `[A-Z]` matches any single upper case character. The `\1` refers to the uppercase character matched in `\([A-Z]\)`.
 
+### Replace single letter occurrences
+
+Useful for math symbols:
+
+    :%s/\<x\>/m/g
+
+Replaces all occurrences of the single letter `x` (by itself, not in a word) with the letter `m`
+
 ### Search for something with `/` then replace it with `%s`
 
     /keyword

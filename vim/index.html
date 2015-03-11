@@ -38,6 +38,15 @@ and insert " * " followed by  that upper case character. So I needed to refer to
 
 <p>The <code>^</code> refers to the beginning of a line, the <code>\(</code> and <code>\)</code> are for grouping a match. The <code>[A-Z]</code> matches any single upper case character. The <code>\1</code> refers to the uppercase character matched in <code>\([A-Z]\)</code>.</p>
 
+<h3>Replace single letter occurrences</h3>
+
+<p>Useful for math symbols:</p>
+
+<pre><code>:%s/\&lt;x\&gt;/m/g
+</code></pre>
+
+<p>Replaces all occurrences of the single letter <code>x</code> (by itself, not in a word) with the letter <code>m</code></p>
+
 <h3>Search for something with <code>/</code> then replace it with <code>%s</code></h3>
 
 <pre><code>/keyword
