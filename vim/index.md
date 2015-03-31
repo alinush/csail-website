@@ -7,7 +7,7 @@
 `y` - Copy   
 `d` - Cut   
 `v` - Paste   
-`/\<l\>` - Search for single letter `l`  
+`/\<l\>` - Search for single letter (or word) `l` 
 `/pattern` - Search for 'pattern'  
 `:set ignorecase` - Sets the default search mode to case insensitive  
 `:set number` - Displays line numbers   
