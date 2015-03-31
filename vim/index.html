@@ -28,6 +28,21 @@
 <code>&gt;%</code> - Indent a bracketed block (move cursor to starting bracket {) <br />
 <code>]p</code> - Paste &amp; indent code  </p>
 
+<h3>Cut or copy lines without counting</h3>
+
+<p>If you ever need to cut/copy/delete/paste lines without knowing the actual number of lines, here is what you should do.</p>
+
+<p>In normal mode, go to the beginning of the section that you want to yank.</p>
+
+<ul>
+<li>Type <code>mk</code> to mark this spot as <code>k</code>.</li>
+<li>Go to the end of the section you want to yank using whatever movement commands you like.</li>
+<li>Type: <code>y'k</code> (<code>&lt;y-yank&gt;</code>, <code>&lt;single quote-go to mark&gt;</code>, <code>k</code>) To yank from the mark to the current location.</li>
+<li>You can paste those lines wherever you want with p</li>
+</ul>
+
+<p>Similarly, <code>d'k</code> will cut/delete the lines from the current location to the mark.</p>
+
 <h3>Replace matched group</h3>
 
 <p>I wanted to search for 2 leading spaces followed by any uppercase character
