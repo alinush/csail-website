@@ -3,11 +3,17 @@ Books
 
 [Lecture notes on cryptography, Shafi Goldwasser, Mihir Bellare](http://cseweb.ucsd.edu/users/mihir/papers/gb.html)  
 [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)  
+[A computational introduction to number theory and algebra](http://shoup.net/ntb/)
+[Mathematical cryptology](http://math.tut.fi/~ruohonen/MC.pdf)
 
 Links
 -----
 
 [http://kodu.ut.ee/\~lipmaa/crypto/](http://kodu.ut.ee/~lipmaa/crypto/)  
+
+Articles
+--------
+[Stick figure guide to AES](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
 
 Blogs
 -----
