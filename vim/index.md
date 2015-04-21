@@ -27,6 +27,7 @@
 `Shift+v, jj>` - Select & indent two lines   
 `>%` - Indent a bracketed block (move cursor to starting bracket {)   
 `]p` - Paste & indent code  
+`Shift+j` - unwrap selected lines
 
 ### Cut or copy lines without counting
 
