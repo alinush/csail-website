@@ -6,6 +6,11 @@ Books
 [A computational introduction to number theory and algebra](http://shoup.net/ntb/)
 [Mathematical cryptology](http://math.tut.fi/~ruohonen/MC.pdf)
 
+Courses
+-------
+[Princeton's COS433](http://www.cs.princeton.edu/courses/archive/fall07/cos433/)  
+[MIT's 6.857](https://courses.csail.mit.edu/6.857/)  
+
 Links
 -----
 
