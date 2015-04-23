@@ -29,6 +29,11 @@
 `]p` - Paste & indent code  
 `Shift+j` - unwrap selected lines
 
+### `vim` parameters
+
+`vim file1 file2 -o` - opens the two files and splits the screen s.t. `file1` takes up the top half and `file2` takes the bottom half.  
+`vim file1 file2 -O` - opens the two files and splits the screen s.t. `file1` takes up the left half and `file2` takes the right half.
+
 ### Cut or copy lines without counting
 
 If you ever need to cut/copy/delete/paste lines without knowing the actual number of lines, here is what you should do.
