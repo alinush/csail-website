@@ -3,6 +3,15 @@
 <pre><code>git log -p &lt;filename&gt;
 </code></pre>
 
+<h3>Tag a commit and push it up</h3>
+
+<pre><code># Use git tag -l to see tags
+# Use git tag -d &lt;tagname&gt; to delete a tag
+git tag &lt;tagname&gt;
+
+git push origin &lt;tagname&gt;
+</code></pre>
+
 <h3>See the modifications in a certain commit</h3>
 
 <pre><code>git show COMMIT
