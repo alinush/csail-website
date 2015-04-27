@@ -3,6 +3,20 @@
 Bash
 ----
 
+### List servers/services that are listening on ports
+
+    netstat -lntpu
+    netstat -an | grep LISTEN
+    sockstat -l
+
+`netstat` parameters:
+
+    # -l -- listening sockets only
+    # -n -- numeric addresses
+    # -p -- show PID and program name
+    # -u -- UDP?
+    # -a -- shows listening and non-listening sockets
+
 ### Changing leading tabs to spaces
 
     sed -ri ':a;s/^( *)\t/\1    /;ta' <path-to-file>

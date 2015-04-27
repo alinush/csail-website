@@ -2,6 +2,22 @@
 
 <h2>Bash</h2>
 
+<h3>List servers/services that are listening on ports</h3>
+
+<pre><code>netstat -lntpu
+netstat -an | grep LISTEN
+sockstat -l
+</code></pre>
+
+<p><code>netstat</code> parameters:</p>
+
+<pre><code># -l -- listening sockets only
+# -n -- numeric addresses
+# -p -- show PID and program name
+# -u -- UDP?
+# -a -- shows listening and non-listening sockets
+</code></pre>
+
 <h3>Changing leading tabs to spaces</h3>
 
 <pre><code>sed -ri ':a;s/^( *)\t/\1    /;ta' &lt;path-to-file&gt;
