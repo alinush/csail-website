@@ -3,6 +3,10 @@
 Bash
 ----
 
+### Check your scripts for common mistakes
+
+Use [ShellCheck](http://www.shellcheck.net/)
+
 ### List servers/services that are listening on ports
 
     netstat -lntpu
