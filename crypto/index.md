@@ -11,6 +11,7 @@ Courses
 [Princeton's COS433](http://www.cs.princeton.edu/courses/archive/fall07/cos433/)  
 [MIT's 6.857](https://courses.csail.mit.edu/6.857/)  
 [MIT's 6.897 Selected topics in Cryptography](http://courses.csail.mit.edu/6.897/spring04/materials.html)
+[Luca Trevisan's courses](https://lucatrevisan.wordpress.com/lecture-notes/)
 
 Links
 -----
