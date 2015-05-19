@@ -3,17 +3,17 @@ Books
 
 [Lecture notes on cryptography, Shafi Goldwasser, Mihir Bellare](http://cseweb.ucsd.edu/users/mihir/papers/gb.html)  
 [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)  
-[A computational introduction to number theory and algebra](http://shoup.net/ntb/)
-[Mathematical cryptology](http://math.tut.fi/~ruohonen/MC.pdf)
+[A computational introduction to number theory and algebra](http://shoup.net/ntb/)  
+[Mathematical cryptology](http://math.tut.fi/~ruohonen/MC.pdf)  
 
 Courses
 -------
 [Princeton's COS433](http://www.cs.princeton.edu/courses/archive/fall07/cos433/)  
 [MIT's 6.857](https://courses.csail.mit.edu/6.857/)  
-[MIT's 6.897 Selected topics in Cryptography](http://courses.csail.mit.edu/6.897/spring04/materials.html)
-[Luca Trevisan's courses](https://lucatrevisan.wordpress.com/lecture-notes/)
-[Vinod's computing on encrypted data course](http://people.csail.mit.edu/vinodv/6892-Fall2013/)
-[RIT's CSCI 462](http://www.cs.rit.edu/~ark/462/module08/notes.shtml)
+[MIT's 6.897 Selected topics in Cryptography](http://courses.csail.mit.edu/6.897/spring04/materials.html)  
+[Luca Trevisan's courses](https://lucatrevisan.wordpress.com/lecture-notes/)  
+[Vinod's computing on encrypted data course](http://people.csail.mit.edu/vinodv/6892-Fall2013/)  
+[RIT's CSCI 462](http://www.cs.rit.edu/~ark/462/module08/notes.shtml)  
 
 Links
 -----
@@ -22,9 +22,9 @@ Links
 
 Articles
 --------
-[Stick figure guide to AES](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
-[Cryptography and Number Theory for Digital Cash](https://groups.csail.mit.edu/mac/classes/6.805/articles/money/cryptnum.htm)
-[Elliptic curve cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
+[Stick figure guide to AES](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)  
+[Cryptography and Number Theory for Digital Cash](https://groups.csail.mit.edu/mac/classes/6.805/articles/money/cryptnum.htm)  
+[Elliptic curve cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)  
 
 Blogs
 -----
