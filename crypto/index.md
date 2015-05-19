@@ -13,6 +13,7 @@ Courses
 [MIT's 6.897 Selected topics in Cryptography](http://courses.csail.mit.edu/6.897/spring04/materials.html)
 [Luca Trevisan's courses](https://lucatrevisan.wordpress.com/lecture-notes/)
 [Vinod's computing on encrypted data course](http://people.csail.mit.edu/vinodv/6892-Fall2013/)
+[RIT's CSCI 462](http://www.cs.rit.edu/~ark/462/module08/notes.shtml)
 
 Links
 -----
