@@ -1,6 +1,9 @@
 [submodule "6.858-fall-2014"]
 	path = 6.858-fall-2014
-	url = https://github.com/alinush/6.858-lecture-notes
+	url = git@github.com:alinush/6.858-lecture-notes.git
 [submodule "6.824-spring-2015"]
 	path = 6.824-spring-2015
-	url = https://github.com/alinush/6.824-lecture-notes.git
+	url = git@github.com:alinush/6.824-lecture-notes.git
+[submodule "6.857-spring-2015"]
+    path = 6.857-spring-2015
+    url = git@github.com:alinush/6.857-lecture-notes.git
