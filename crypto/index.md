@@ -1,3 +1,5 @@
+Some [crypto-math](crypto-math.pdf) I wrote.
+
 Books
 -----
 
