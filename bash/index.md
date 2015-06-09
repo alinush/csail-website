@@ -7,6 +7,10 @@ Bash
 
 Use [ShellCheck](http://www.shellcheck.net/)
 
+### Coloring certain words using `cat`
+
+    cat file.txt | grep --color -E '^|mycoloredword'
+
 ### List servers/services that are listening on ports
 
     netstat -lntpu

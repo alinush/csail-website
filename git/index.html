@@ -14,7 +14,15 @@ git push origin &lt;tagname&gt;
 
 <h3>See the modifications in a certain commit</h3>
 
-<pre><code>git show COMMIT
+<p>By commit hash: <code>git show &lt;COMMIT-HASH&gt;</code></p>
+
+<p>The <code>i</code>-th to last commit: <code>git show HEAD~i</code></p>
+
+<h3>See the modifications between two commits</h3>
+
+<pre><code>git show &lt;hash1&gt; &lt;hash2&gt;
+git show HEAD~i HEAD~j
+git show HEAD~i HEAD
 </code></pre>
 
 <h3>Adding a submodule</h3>

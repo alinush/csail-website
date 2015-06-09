@@ -13,7 +13,15 @@
 
 ### See the modifications in a certain commit
 
-    git show COMMIT
+By commit hash: `git show <COMMIT-HASH>`
+
+The `i`-th to last commit: `git show HEAD~i`
+
+### See the modifications between two commits
+
+    git show <hash1> <hash2>
+    git show HEAD~i HEAD~j
+    git show HEAD~i HEAD
 
 ### Adding a submodule
 
