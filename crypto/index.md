@@ -16,6 +16,7 @@ Courses
 [Luca Trevisan's courses](https://lucatrevisan.wordpress.com/lecture-notes/)  
 [Vinod's computing on encrypted data course](http://people.csail.mit.edu/vinodv/6892-Fall2013/)  
 [RIT's CSCI 462](http://www.cs.rit.edu/~ark/462/module08/notes.shtml)  
+[Stanford's Elliptic Curve course](http://theory.stanford.edu/~dfreeman/cs259c-f11/)  
 
 Links
 -----
@@ -35,12 +36,6 @@ Blogs
 [A few thoughts on cryptographic engineering, by Matthew Green](http://blog.cryptographyengineering.com/)  
 [Schneier on Security](https://www.schneier.com/)  
 [Matt Blaze's EXHAUSTIVE SEARCH](http://www.crypto.com/blog)  
-
-Papers
-------
-
-[A cryptographic file system for UNIX, Matt Blaze](cfs.pdf)  
-[Cryptographic Extraction and Key Derivation: The HKDF Scheme](hkdf.pdf)  
 
 Security audits
 ---------------
