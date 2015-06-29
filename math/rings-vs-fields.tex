@@ -1,0 +1,65 @@
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fullpage}
+\usepackage{amsmath,amsthm,amssymb,amsfonts,amscd}
+\usepackage{mathabx}
+\usepackage{parskip}
+
+\begin{filecontents}{refs.bib}
+@online{mathse,
+author = {Arturo Magidin},
+title  = {Question: "what is difference between a ring and a field"},
+date   = {2012-05},
+url    = {http://math.stackexchange.com/a/141255/249083}
+}
+\end{filecontents}
+
+\usepackage[style=numeric,backend=biber]{biblatex}
+\addbibresource{refs.bib}
+
+% From: https://math.stackexchange.com/questions/141249/what-is-difference-between-a-ring-and-a-field?newreg=622dd74de72a45dbb537a55d9cc01e3c
+\begin{document}
+
+\title{Rings and Fields}
+\author{As explained by "Arturo Magidin" Math StackExchange\cite{mathse}}
+\maketitle
+
+A ring is an ordered triple, $(R,+,\times)$, where $R$ is a set, $+\colon R\times R\to R$ and $\times\colon R\times R\to R$ are binary operations (usually written in in-fix notation) such that:
+
+1. $+$ is associative.
+2. There exists $0\in R$ such that $0+a=a+0=a$ for all $a\in R$.
+3. For every $a\in R$ there exists $b\in R$ such that $a+b=b+a=0$.
+4. $+$ is commutative.
+5. $\times$ is associative.
+6. $\times$ distributes over $+$ on the left: for all $a,b,c\in R$, $a\times(b+c) = (a\times b)+(a\times c)$.
+7. $\times$ distributes over $+$ on the right: for all $a,b,c\in R$, $(b+c)\times a = (b\times a)+(c\times a)$.
+
+1-4 tell us that $(R,+)$ is an abelian group. 5 tells us that $(R,\times)$ is a semigroup. 6 and 7 are the two distributive laws that you mention.
+
+We also have the following items:
+
+a. There exists $1\in R$ such that $1\times a = a\times 1 = a$ for all $a\in R$.
+
+b. $1\neq 0$.
+
+c. For every $a\in R$, $a\neq 0$, there exists $b\in R$ such that $a\times b = b\times a = 1$.
+
+d. $\times$ is commutative.
+
+
+A ring that satisfies (1)-(7)+(a) is said to be a "ring with unity." Clearly, every ring with unity is also a ring; it takes "more" to be a ring with unity than to be a ring.
+
+A ring that satisfies (1)-(7)+(a,b,c) is said to be a *division ring*. Again, eveyr division ring is a ring, and it takes "more" to be a division ring than to be a ring. (5)+(a)+(b)+(c) tell us that $(R-\{0\},\times)$ is a group (note that we need to remove $0$ because (c) specifies nonzero, and we need (b) to ensure we are left with *something*).
+
+A ring that satisfies (1)-(7)+(a,b,c,d) is a field.  Again, every field is a ring.
+
+We do indeed have that $(R,+)$ is an abelian group, that $(R-\{0\},\times)$ is an abelian group, and that these structures "mesh together" via (6) and (7). In a ring, we have that $(R,+)$ is an abelian group, that $(R,\times)$ is a semigroup (or better yet, a semigroup with $0$), and that the two structures "mesh well".
+
+We have that every field is a division ring, but there are division rings that are not fields (e.g., the quaternions); every division ring is a ring with unity, but there are rings with unity that are not division rings (e.g., the integers if you want commutativity, the $n\times n$ matrices with coefficients in, say, $\mathbb{R}$, $n > 1$, if you want noncommutativity); every ring with unity is a ring, but there are rings that are not rings with unity (strictly upper triangular $3\times 3$ matrices with coefficients in $\mathbb{R}$, for instance). So
+$$\text{Fields}\subsetneq \text{Division rings}\subsetneq \text{Rings with unity} \subsetneq \text{Rings}$$
+and
+$$\text{Fields}\subsetneq \text{Commutative rings with unity}\subsetneq \text{Commutative rings}\subsetneq \text{Rings}.$$
+
+\nocite{*}
+\printbibliography
+\end{document}
