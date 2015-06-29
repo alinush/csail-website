@@ -1,6 +1,12 @@
-Order deny,allow
-Deny from all
-
-<Files "*.pdf">
-    Allow from all
+<Files "*.tex">
+    Deny from all
+</Files>
+<Files "Makefile">
+    Deny from all
+</Files>
+<Files ".gitignore">
+    Deny from all
+</Files>
+<Files "refs.bib>
+    Deny from all
 </Files>
