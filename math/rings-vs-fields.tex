@@ -26,32 +26,36 @@ url    = {http://math.stackexchange.com/a/141255/249083}
 
 A ring is an ordered triple, $(R,+,\times)$, where $R$ is a set, $+\colon R\times R\to R$ and $\times\colon R\times R\to R$ are binary operations (usually written in in-fix notation) such that:
 
-1. $+$ is associative.
-2. There exists $0\in R$ such that $0+a=a+0=a$ for all $a\in R$.
-3. For every $a\in R$ there exists $b\in R$ such that $a+b=b+a=0$.
-4. $+$ is commutative.
-5. $\times$ is associative.
-6. $\times$ distributes over $+$ on the left: for all $a,b,c\in R$, $a\times(b+c) = (a\times b)+(a\times c)$.
-7. $\times$ distributes over $+$ on the right: for all $a,b,c\in R$, $(b+c)\times a = (b\times a)+(c\times a)$.
+\begin{itemize}
+ \item $+$ is associative.
+ \item There exists $0\in R$ such that $0+a=a+0=a$ for all $a\in R$.
+ \item For every $a\in R$ there exists $b\in R$ such that $a+b=b+a=0$.
+ \item $+$ is commutative.
+ \item $\times$ is associative.
+ \item $\times$ distributes over $+$ on the left: for all $a,b,c\in R$, $a\times(b+c) = (a\times b)+(a\times c)$.
+ \item $\times$ distributes over $+$ on the right: for all $a,b,c\in R$, $(b+c)\times a = (b\times a)+(c\times a)$.
+\end{itemize}
 
 1-4 tell us that $(R,+)$ is an abelian group. 5 tells us that $(R,\times)$ is a semigroup. 6 and 7 are the two distributive laws that you mention.
 
 We also have the following items:
 
-a. There exists $1\in R$ such that $1\times a = a\times 1 = a$ for all $a\in R$.
+\begin{itemize}
+ \item There exists $1\in R$ such that $1\times a = a\times 1 = a$ for all $a\in R$.
+ \item $1\neq 0$.
+ \item For every $a\in R$, $a\neq 0$, there exists $b\in R$ such that $a\times b = b\times a = 1$.
+ \item $\times$ is commutative.
+\end{itemize}
 
-b. $1\neq 0$.
+A ring that satisfies (1)-(7)+(a) is said to be a \textbf{ring with unity.} Clearly, every ring with unity is also a ring; it takes "more" to be a ring with unity than to be a ring.
 
-c. For every $a\in R$, $a\neq 0$, there exists $b\in R$ such that $a\times b = b\times a = 1$.
+A ring that satisfies (1)-(7)+(a,b,c) is said to be a \textbf{division ring}. Again,
+every division ring is a ring, and it takes "more" to be a division ring than
+to be a ring. (5)+(a)+(b)+(c) tell us that $(R-\{0\},\times)$ is a group (note
+that we need to remove $0$ because (c) specifies nonzero, and we need (b) to
+ensure we are left with \emph{something}).
 
-d. $\times$ is commutative.
-
-
-A ring that satisfies (1)-(7)+(a) is said to be a "ring with unity." Clearly, every ring with unity is also a ring; it takes "more" to be a ring with unity than to be a ring.
-
-A ring that satisfies (1)-(7)+(a,b,c) is said to be a *division ring*. Again, eveyr division ring is a ring, and it takes "more" to be a division ring than to be a ring. (5)+(a)+(b)+(c) tell us that $(R-\{0\},\times)$ is a group (note that we need to remove $0$ because (c) specifies nonzero, and we need (b) to ensure we are left with *something*).
-
-A ring that satisfies (1)-(7)+(a,b,c,d) is a field.  Again, every field is a ring.
+A ring that satisfies (1)-(7)+(a,b,c,d) is a \textbf{field}.  Again, every field is a ring.
 
 We do indeed have that $(R,+)$ is an abelian group, that $(R-\{0\},\times)$ is an abelian group, and that these structures "mesh together" via (6) and (7). In a ring, we have that $(R,+)$ is an abelian group, that $(R,\times)$ is a semigroup (or better yet, a semigroup with $0$), and that the two structures "mesh well".
 
