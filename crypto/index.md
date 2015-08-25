@@ -29,6 +29,7 @@ Articles
 [Stick figure guide to AES](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)  
 [Cryptography and Number Theory for Digital Cash](https://groups.csail.mit.edu/mac/classes/6.805/articles/money/cryptnum.htm)  
 [Elliptic curve cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)  
+[SEC 1: ECC](http://www.secg.org/sec1-v2.pdf)  
 
 Blogs
 -----
