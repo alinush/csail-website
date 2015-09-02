@@ -7,7 +7,7 @@ Books
 [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)  
 [A computational introduction to number theory and algebra](http://shoup.net/ntb/)  
 [Number theory, Z.I. Borevich, I.R. Shafarevich](http://www.maths.ed.ac.uk/~aar/papers/borevich.pdf)  
-[Introduction to Number Theory](../files/intro-to-number-theory.pdf)  
+[Introduction to Number Theory, Hua Loo Keng](../files/intro-to-number-theory.pdf)  
 [A course in computational algebraic number theory](http://www.plouffe.fr/simon/math/A%20course%20in%20computational%20algebraic%20number%20theory%20-%20Cohen.pdf)  
 [Algebraic Number Theory, Serge Lang](../files/algebraic-number-theory.pdf)  
 [Mathematical cryptology](http://math.tut.fi/~ruohonen/MC.pdf)  
