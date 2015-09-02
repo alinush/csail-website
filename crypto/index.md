@@ -6,6 +6,8 @@ Books
 [Lecture notes on cryptography, Shafi Goldwasser, Mihir Bellare](http://cseweb.ucsd.edu/users/mihir/papers/gb.html)  
 [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)  
 [A computational introduction to number theory and algebra](http://shoup.net/ntb/)  
+[Number theory, Z.I. Borevich, I.R. Shafarevich](http://www.maths.ed.ac.uk/~aar/papers/borevich.pdf)  
+[Introduction to Number Theory](../files/intro-to-number-theory.pdf)  
 [Mathematical cryptology](http://math.tut.fi/~ruohonen/MC.pdf)  
 
 Courses
