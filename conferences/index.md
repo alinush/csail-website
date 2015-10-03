@@ -20,6 +20,11 @@ No dates yet (some links might be 'not ready' yet):
  - [ACNS](http://icsd.i2r.a-star.edu.sg/staff/jianying/acns_home/)
  - Workshop on Privacy in the Electronic Society (WPES) 2016
 
+Conference tips
+---------------
+
+ - [How to get the most out of conferences](http://scottberkun.com/essays/24-how-to-get-the-most-out-of-conferences/)
+
 Conference rankings
 -------------------
 
