@@ -1,5 +1,4 @@
-How to properly communicate your research to others
----------------------------------------------------
+<title>Communication</title>
 
 Research links
 ==============
