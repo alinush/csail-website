@@ -13,3 +13,4 @@ Random pages
  - [latex/](latex/)
  - [math/](math/)
  - [papers/](papers/) -- sort of outdated
+ - [philosophy](philosophy/)
