@@ -11,6 +11,7 @@ Technical writing
  * [Good Writing, by Marc H. Raibert, January 1985](https://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm)
  * [Tiemersma's Simple Rules for Coherent Writing, by Michael Goodrich](https://www.ics.uci.edu/~goodrich/writing.html)
  * [How to write a great research paper, by Simon Peyton Jones](how-to-write-a-great-research-paper.pdf)
+ * [How (and How Not) to Write a Good Systems Paper, by Roy Levin and David D. Redell](https://www.usenix.org/legacy/publications/library/proceedings/dsl97/good_paper.html)
 
 Talks
 -----
