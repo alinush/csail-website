@@ -11,7 +11,7 @@ Technical writing
  * [How to write a great research paper](how-to-write-a-great-research-paper.pdf), by Simon Peyton Jones
  * [How (and How Not) to Write a Good Systems Paper](https://www.usenix.org/legacy/publications/library/proceedings/dsl97/good_paper.html), by Roy Levin and David D. Redell
  * [Write right for readers](http://www.maths.adelaide.edu.au/anthony.roberts/LaTeX/ltxwrite.php), by Anthony Roberts
- * [Research absstracts](http://writing.wisc.edu/Handbook/presentations_abstracts.html), by Univ. of Wisconsin
+ * [Research abstracts](http://writing.wisc.edu/Handbook/presentations_abstracts.html), by Univ. of Wisconsin
  * [How to write an abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html), by Philip Koopman
 
 Talks
