@@ -14,6 +14,10 @@ Technical writing
  * [Research abstracts](http://writing.wisc.edu/Handbook/presentations_abstracts.html), by Univ. of Wisconsin
  * [How to write an abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html), by Philip Koopman
 
+My own notes:
+
+ * [Basics of Scientific Writing](basics-of-scientific-writing/), at MIT on Oct. 7th, 2015
+
 Talks
 -----
 
