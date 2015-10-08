@@ -108,6 +108,8 @@ General comments about scientific writing
  * Don't use the passive voice 
    + Bio papers before 1950 used passive voice and were much harder to understand
    + In 1953 a classic paper was published that changed the writing style
+   + _Chris:_ "If you can add _'by zombies'_ at the end of your sentence, then you're using the passive voice."
+     - "The object was moved (by zombies)." vs. "We moved the object."
    + The "Watson and Creek" paper
      - Google "rhetorical analysis of Watson and Creek paper"
      - The answer will be they changed writing by using active voice.
