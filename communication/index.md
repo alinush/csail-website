@@ -37,6 +37,7 @@ My own notes:
      + the first sentence in every paragraph in a section
      + the first paragraph in every section
      + the first section of every chapter
+ * **Prize winning stuff:** If you're _shy_ about editing your writing or deleting a lot of it and rewriting it, have a `PRIZE-WINNING-STUFF.txt` file where you can cut and paste all of the text you are shy about deleting.
 
 Talks
 -----
