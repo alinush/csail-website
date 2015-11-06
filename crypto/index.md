@@ -27,6 +27,8 @@ Links
 -----
 
 [http://kodu.ut.ee/\~lipmaa/crypto/](http://kodu.ut.ee/~lipmaa/crypto/)  
+[http://pqcrypto.org/](Post quantum crypto, by DJB)  
+[http://safecurves.cr.yp.to/](SafeCurves: choosing safe elliptic curves)  
 
 Articles
 --------
