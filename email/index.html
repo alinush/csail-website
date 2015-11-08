@@ -1,19 +1,34 @@
-<h2>Breaches</h2>
+<h2>In the news</h2>
+
+<h3>Breaches</h3>
+
+<p>Stories about data/email breaches:</p>
 
 <ul>
 <li><em>2015-10-19</em>, CIA Director John Brennan's AOL email compromise via socially-engineered AOL password reset
 <a href="http://www.wired.com/2015/10/hacker-who-broke-into-cia-director-john-brennan-email-tells-how-he-did-it/">[link]</a></li>
 <li><em>2014-11-24</em>, SONY email leaks. Apparently, the hack was made easier by phishing some employee passwords
 <a href="http://www.tripwire.com/state-of-security/latest-security-news/sony-hackers-used-phishing-emails-to-breach-company-networks/">[link]</a></li>
+<li><em>2014-01-11</em>, Microsoft employee OWA email accounts hacked via password-phishing
+<a href="http://www.theverge.com/2014/1/15/5312798/microsoft-email-accounts-hacked-syrian-electronic-army">[link]</a></li>
 <li><em>2012-07-12</em>, Yahoo (and Gmail and Hotmail) SQL injection hack which lead to revealed passwords
 <a href="http://bits.blogs.nytimes.com/2012/07/12/yahoo-breach-extends-beyond-yahoo-to-gmail-hotmail-aol-users/?_r=1">[link]</a></li>
 <li><em>2011-08-29</em>, Google's SSL MITM (possibly) by Iran, thorugh fake Google cert issued by allegedly invalidly created intermediate CA
 <a href="https://googleonlinesecurity.blogspot.com/2011/08/update-on-attempted-man-in-middle.html">[link]</a></li>
 <li><em>2010-01-12</em>, Google's network breach (possibly) by China
 <a href="https://googleblog.blogspot.com/2010/01/new-approach-to-china.html">[link]</a></li>
+<li><em>2009-11-17</em>, Climategate email leak due to a server hack
+<a href="https://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy">[link]</a></li>
 </ul>
 
-<h2>CA untrustworthiness</h2>
+<p>Worse, it is increasingly clear that sensitive info is being sent over email:</p>
+
+<ul>
+<li><em>2012-06-28</em>, Most Firms Send Sensitive Data via Email, but Fail to Protect It (PhoneFactor survey)
+<a href="http://news.softpedia.com/news/Study-Most-Firms-Send-Sensitive-Data-Via-Email-But-Fail-to-Protect-It-Video-278106.shtml">[link]</a></li>
+</ul>
+
+<h3>CA untrustworthiness</h3>
 
 <ul>
 <li><em>2013-12-07</em>, One of the intermediate CAs created by ANSSI (France) misbehaved and issued a fake Google cert so they can monitor traffic within a network. 
@@ -48,13 +63,14 @@ The fake cert was used in a commercial device apparently.
 <ul>
 <li>Convergence</li>
 <li>Perspectives</li>
-<li>EFF's Sovereign Keys</li>
+<li><a href="https://www.eff.org/deeplinks/2011/11/sovereign-keys-proposal-make-https-and-email-more-secure">EFF's Sovereign Keys</a></li>
 <li>OCSP</li>
 <li>Keybase</li>
 <li>CT</li>
 <li>ECT</li>
 <li>CONIKS</li>
 <li>Balloon</li>
+<li>Namecoin</li>
 </ul>
 
 <h2>Current email work</h2>
@@ -70,22 +86,32 @@ The fake cert was used in a commercial device apparently.
 <ul>
 <li>Seems like they do end-to-end crypto with wrapped secret keys</li>
 </ul></li>
+<li>Lightweight Email Signatures
+<ul>
+<li>Key escrow is not as problematic, since private keys are only used for signing</li>
+</ul></li>
 </ul>
 
-<h3>Snake-oil email work</h3>
-
-<p>We might be a little rough on these guys here.</p>
+<h3>Unsatisfying email work</h3>
 
 <ul>
-<li><a href="http://www.cisco.com/c/en/us/products/security/email-encryption/index.html#">Cisco Email Encryption</a>
+<li><a href="http://tools.ietf.org/html/rfc6376">DomainKeys Identified Mail (DKIM) Signatures</a>
 <ul>
-<li>Store encryption keys in your cloud for everybody and call yourself secure.</li>
-<li>They use email-based authentication to decrypt "secure" emails</li>
+<li>Problem is the UDP DNS replies can be easily tampered with and the public keys of email providers can be replaced by attackers</li>
+<li>AFAIK, the public keys in DNS are not CA-signed, but even if they were it would still be meaningless with the current untrustworthy CA system</li>
 </ul></li>
 <li><a href="http://lavabit.com/">LavaBit</a>
 <ul>
 <li>They seemed like good guys, but why did they have to store the private keys in plaintext?</li>
 <li>If they were compromised <code>=&gt;</code> all private keys were compromised <code>=&gt;</code> all emails compromised</li>
+</ul></li>
+<li>Lightweight Email Encryption
+<ul>
+<li>Any-trust private key escrow seems like playing with fire: if compromise occurs once, all private keys are known</li>
+</ul></li>
+<li>STARTTLS SMTP encryption
+<ul>
+<li>Vulnerable to downgrade attacks</li>
 </ul></li>
 </ul>
 
@@ -103,6 +129,18 @@ The fake cert was used in a commercial device apparently.
 <li><a href="https://github.com/qnrq/rc_openpgpjs/">RoundCube with OpenPGP.js</a></li>
 <li><a href="https://encrypt.to/">https://encrypt.to/</a></li>
 <li><a href="http://pawelgorny.com/PGpgp/">PGpgp for BlackBerry</a></li>
+</ul></li>
+</ul>
+
+<h3>Snake-oil email work</h3>
+
+<p>We might be a little rough on these guys here.</p>
+
+<ul>
+<li><a href="http://www.cisco.com/c/en/us/products/security/email-encryption/index.html#">Cisco Email Encryption</a>
+<ul>
+<li>Store encryption keys in your cloud for everybody and call yourself secure.</li>
+<li>They use email-based authentication to decrypt "secure" emails</li>
 </ul></li>
 </ul>
 
