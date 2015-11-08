@@ -9,8 +9,6 @@ Random pages
  - [communication/](communication/) -- How to properly communicate your research to others
  - [conferences/](conferences/)
  - [crypto/](crypto/)
- - [howtowrite/](howtowrite/)
  - [latex/](latex/)
  - [math/](math/)
- - [papers/](papers/) -- sort of outdated
  - [philosophy](philosophy/)

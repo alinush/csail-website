@@ -53,4 +53,5 @@ All combined
  * [Research skills](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm), by Simon Peyton Jones (MSR)
  * [Advice on research and writing](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html), by Mark Leone
  * [Research tips](http://www.ifs.tuwien.ac.at/~silvia/research-tips/), by Silvia Miksch
-
+ * [How to write a paper](http://www.wisdom.weizmann.ac.il/~oded/writing.html), by Oded Goldreich
+ * [Writing technical articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html), by Columbia University people
