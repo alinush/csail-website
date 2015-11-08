@@ -31,12 +31,18 @@ Papers
 ------
  
  * [Certified lies](http://dx.doi.org/10.1007/978-3-642-27576-0_20), by Christian Soghoian: Explains how CAs can be used to mount MITM attacks. Calls for better trust decisions regarding CAs.
+ * Super-efficient aggregating history-independent persistent authenticated dictionaries, by Crosby
+   + Introduces Persistent Authenticated Dictionaries, but doesn't solve the consistency check problem between different PAD versions.
+ * Balloon: A forward-secure append-only persistent authenticated data structure
+   + Introduces a PAD which relies on expensive monitoring to ensure consistency
 
 Current CA work
 ---------------
 
  * Convergence
  * Perspectives
+ * EFF's Sovereign Keys
+ * OCSP
  * Keybase
  * CT
  * ECT
@@ -50,6 +56,8 @@ Current email work
 
  * [ProtonMail](https://protonmail.ch)
    + Their main problem is they haven't found a way to allow their users to verify the JS code they deliver
+ * [whiteout.io](https://whiteout.io/#pricing * [whiteout.io](https://whiteout.io/#pricing * [whiteout.io](https://whiteout.io/#pricing)
+   + Seems like they do end-to-end crypto with wrapped secret keys
 
 ### Snake-oil email work
 
@@ -61,6 +69,22 @@ We might be a little rough on these guys here.
  * [LavaBit](http://lavabit.com/)
    + They seemed like good guys, but why did they have to store the private keys in plaintext?
    + If they were compromised `=>` all private keys were compromised `=>` all emails compromised
+
+In general, we don't like PGP because users do not understand how to use it.
+
+ * PGP-based browser extensions
+   + [Mymail-Crypt for GMail](https://chrome.google.com/webstore/detail/mymail-crypt-for-gmail/jcaobjhdnlpmopmjhijplpjhlplfkhba)
+   + [Mailvelope](https://chrome.google.com/webstore/detail/mailvelope/kajibbejlbohfaggdiogboambcijhkke)
+   + [PGP anywhere](https://chrome.google.com/webstore/detail/pgp-anywhere/cdlcdnmhcodhagbmljapgbjdimjckilb)
+ * PGP-based mail clients
+   + [RoundCube with OpenPGP.js](https://github.com/qnrq/rc_openpgpjs/)
+   + [https://encrypt.to/](https://encrypt.to/)
+   + [PGpgp for BlackBerry](http://pawelgorny.com/PGpgp/)
+ 
+### Email libraries
+
+
+ * [OpenPGPjs](http://openpgpjs.org/)
 
 Future work
 -----------

@@ -33,6 +33,14 @@ The fake cert was used in a commercial device apparently.
 
 <ul>
 <li><a href="http://dx.doi.org/10.1007/978-3-642-27576-0_20">Certified lies</a>, by Christian Soghoian: Explains how CAs can be used to mount MITM attacks. Calls for better trust decisions regarding CAs.</li>
+<li>Super-efficient aggregating history-independent persistent authenticated dictionaries, by Crosby
+<ul>
+<li>Introduces Persistent Authenticated Dictionaries, but doesn't solve the consistency check problem between different PAD versions.</li>
+</ul></li>
+<li>Balloon: A forward-secure append-only persistent authenticated data structure
+<ul>
+<li>Introduces a PAD which relies on expensive monitoring to ensure consistency</li>
+</ul></li>
 </ul>
 
 <h2>Current CA work</h2>
@@ -40,6 +48,8 @@ The fake cert was used in a commercial device apparently.
 <ul>
 <li>Convergence</li>
 <li>Perspectives</li>
+<li>EFF's Sovereign Keys</li>
+<li>OCSP</li>
 <li>Keybase</li>
 <li>CT</li>
 <li>ECT</li>
@@ -55,6 +65,10 @@ The fake cert was used in a commercial device apparently.
 <li><a href="https://protonmail.ch">ProtonMail</a>
 <ul>
 <li>Their main problem is they haven't found a way to allow their users to verify the JS code they deliver</li>
+</ul></li>
+<li><a href="https://whiteout.io/#pricing * [whiteout.io](https://whiteout.io/#pricing * [whiteout.io](https://whiteout.io/#pricing">whiteout.io</a>
+<ul>
+<li>Seems like they do end-to-end crypto with wrapped secret keys</li>
 </ul></li>
 </ul>
 
@@ -73,6 +87,29 @@ The fake cert was used in a commercial device apparently.
 <li>They seemed like good guys, but why did they have to store the private keys in plaintext?</li>
 <li>If they were compromised <code>=&gt;</code> all private keys were compromised <code>=&gt;</code> all emails compromised</li>
 </ul></li>
+</ul>
+
+<p>In general, we don't like PGP because users do not understand how to use it.</p>
+
+<ul>
+<li>PGP-based browser extensions
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/mymail-crypt-for-gmail/jcaobjhdnlpmopmjhijplpjhlplfkhba">Mymail-Crypt for GMail</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/mailvelope/kajibbejlbohfaggdiogboambcijhkke">Mailvelope</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/pgp-anywhere/cdlcdnmhcodhagbmljapgbjdimjckilb">PGP anywhere</a></li>
+</ul></li>
+<li>PGP-based mail clients
+<ul>
+<li><a href="https://github.com/qnrq/rc_openpgpjs/">RoundCube with OpenPGP.js</a></li>
+<li><a href="https://encrypt.to/">https://encrypt.to/</a></li>
+<li><a href="http://pawelgorny.com/PGpgp/">PGpgp for BlackBerry</a></li>
+</ul></li>
+</ul>
+
+<h3>Email libraries</h3>
+
+<ul>
+<li><a href="http://openpgpjs.org/">OpenPGPjs</a></li>
 </ul>
 
 <h2>Future work</h2>
