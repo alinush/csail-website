@@ -39,14 +39,16 @@ Worse, it is increasingly clear that sensitive info is being sent over email:
  * _2010-08-27_, Talks about a newly appointed CA from UAE called Etisalat, who in the past served a fake Blackberry update to its customers or employees
    [[link]](http://www.slate.com/articles/technology/webhead/2010/08/the_internets_secret_back_door.html)
 
-Papers
-------
+Papers and articles
+-------------------
  
  * [Certified lies](http://dx.doi.org/10.1007/978-3-642-27576-0_20), by Christian Soghoian: Explains how CAs can be used to mount MITM attacks. Calls for better trust decisions regarding CAs.
  * Super-efficient aggregating history-independent persistent authenticated dictionaries, by Crosby
    + Introduces Persistent Authenticated Dictionaries, but doesn't solve the consistency check problem between different PAD versions.
  * Balloon: A forward-secure append-only persistent authenticated data structure
    + Introduces a PAD which relies on expensive monitoring to ensure consistency
+ * [Using metadata to find Paul Revere](http://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)
+ * [15 reasons not to use PGP](http://secushare.org/PGP)
 
 Current CA work
 ---------------
@@ -64,6 +66,8 @@ Current CA work
 
 Current email work
 ------------------
+
+**TODO:** DarkMail
 
 ### Promising email work
 
