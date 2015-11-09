@@ -49,6 +49,7 @@ Papers and articles
    + Introduces a PAD which relies on expensive monitoring to ensure consistency
  * [Using metadata to find Paul Revere](http://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)
  * [15 reasons not to use PGP](http://secushare.org/PGP)
+ * [Why the Web-of-Trust sucks](https://lists.torproject.org/pipermail/tor-talk/2013-September/030235.html)
 
 Current CA work
 ---------------
