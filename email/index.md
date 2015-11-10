@@ -50,6 +50,7 @@ Papers and articles
  * [Using metadata to find Paul Revere](http://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)
  * [15 reasons not to use PGP](http://secushare.org/PGP)
  * [Why the Web-of-Trust sucks](https://lists.torproject.org/pipermail/tor-talk/2013-September/030235.html)
+ * [Hashcash FAQ](http://www.hashcash.org/faq/)
 
 Current CA work
 ---------------
@@ -68,7 +69,7 @@ Current CA work
 Current email work
 ------------------
 
-**TODO:** DarkMail
+**TODO:** DarkMail, [Tutanota](https://github.com/tutao/tutanota/), look at [OpenTechFund](https://github.com/OpenTechFund/secure-email)
 
 ### Promising email work
 
