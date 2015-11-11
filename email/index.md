@@ -78,6 +78,7 @@ Current email work
  * [Tutanota](https://github.com/tutao/tutanota/)
  * Look at [OpenTechFund](https://github.com/OpenTechFund/secure-email)
  * [Runbox](https://runbox.com/) -- they seem to do PGP
+ * [Google's end-to-end framework](https://googleonlinesecurity.blogspot.de/2014/06/making-end-to-end-encryption-easier-to.html)
 
 ### Promising email work
 
@@ -130,6 +131,7 @@ Future work
 ### Security
 
  * Need transparency, consistency (append-only) and Byzantine fault tolerant consensus for user PK bindings
+   + Need privacy-preserving directory. Centralization allows one entity to learn too much about the userbase of companies
  * Need to deal with mailing lists
  * Need to deal with encrypted spam
  * Need to deal with group messaging?
