@@ -69,7 +69,12 @@ Current CA work
 Current email work
 ------------------
 
-**TODO:** DarkMail, [Tutanota](https://github.com/tutao/tutanota/), look at [OpenTechFund](https://github.com/OpenTechFund/secure-email)
+**TODO:** 
+
+ * DarkMail
+ * [Tutanota](https://github.com/tutao/tutanota/)
+ * Look at [OpenTechFund](https://github.com/OpenTechFund/secure-email)
+ * [Runbox](https://runbox.com/) -- they seem to do PGP
 
 ### Promising email work
 
