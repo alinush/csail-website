@@ -41,7 +41,7 @@ Worse, it is increasingly clear that sensitive info is being sent over email:
 
 Papers and articles
 -------------------
- 
+
  * [Certified lies](http://dx.doi.org/10.1007/978-3-642-27576-0_20), by Christian Soghoian: Explains how CAs can be used to mount MITM attacks. Calls for better trust decisions regarding CAs.
  * Super-efficient aggregating history-independent persistent authenticated dictionaries, by Crosby
    + Introduces Persistent Authenticated Dictionaries, but doesn't solve the consistency check problem between different PAD versions.
@@ -51,6 +51,9 @@ Papers and articles
  * [15 reasons not to use PGP](http://secushare.org/PGP)
  * [Why the Web-of-Trust sucks](https://lists.torproject.org/pipermail/tor-talk/2013-September/030235.html)
  * [Hashcash FAQ](http://www.hashcash.org/faq/)
+
+**TODO:** 
+ * [TrendMicro's true costs of email encryption](trendmicro.pdf)
 
 Current CA work
 ---------------
