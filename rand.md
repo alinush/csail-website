@@ -9,7 +9,6 @@ Random pages
  - [communication/](communication/) -- How to properly communicate your research to others
  - [conferences/](conferences/)
  - [crypto/](crypto/)
- - [email/](email/)
  - [latex/](latex/)
  - [math/](math/)
  - [philosophy](philosophy/)
