@@ -3,6 +3,20 @@
 <pre><code>git log -p &lt;filename&gt;
 </code></pre>
 
+<h3>Diffing, but ignoring whitespace changes</h3>
+
+<pre><code>git show --ignore-space-change &lt;commit&gt;
+git diff --ignore-space-change &lt;commit1&gt; &lt;commit2&gt;
+</code></pre>
+
+<h3>Squashing the last, say, 4 commits</h3>
+
+<pre><code>git rebase -i HEAD~4
+</code></pre>
+
+<p>See <a href="http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html">here</a> for more details. <br />
+<strong>WARNING:</strong> Only do this if you haven't pushed those commits to someone else. Otherwise, inconsistent repos will be created and you won't be able to merge them anymore.</p>
+
 <h3>Tag a commit and push it up</h3>
 
 <pre><code># Use git tag -l to see tags
