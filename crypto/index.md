@@ -22,6 +22,7 @@ Courses
 [Vinod's computing on encrypted data course](http://people.csail.mit.edu/vinodv/6892-Fall2013/)  
 [RIT's CSCI 462](http://www.cs.rit.edu/~ark/462/module08/notes.shtml)  
 [Stanford's Elliptic Curve course](http://theory.stanford.edu/~dfreeman/cs259c-f11/)  
+[Berkeley's CS174](http://www.cs.berkeley.edu/~jfc/cs174/lecs/)  
 
 Links
 -----
