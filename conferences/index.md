@@ -20,6 +20,7 @@ No dates yet (some links might be 'not ready' yet):
 
 Passed: 
 
+ - [SPACE 2015](http://cse.iitkgp.ac.in/conf/SPACE2015/), deadline May 31st, 2015
  - [IACR EUROCRYPT 2016](http://ist.ac.at/eurocrypt2016/), deadline October 8th, 2015
  - [Real World Cryptography Conference (2016)](http://www.realworldcrypto.com/rwc2016), deadline Nov. 1st 2015 (they are looking for position papers)
  - [IEEE Security & Privacy 2016](http://www.ieee-security.org/TC/SP2016/index.html), deadline Nov. 13th, 2015 (apply for [Student PC](http://www.ieee-security.org/TC/SP2016/studentpc.html))
