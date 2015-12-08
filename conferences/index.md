@@ -20,6 +20,7 @@ No dates yet (some links might be 'not ready' yet):
 
 Passed: 
 
+ - [CCC](https://events.ccc.de/)
  - [SPACE 2015](http://cse.iitkgp.ac.in/conf/SPACE2015/), deadline May 31st, 2015
  - [IACR EUROCRYPT 2016](http://ist.ac.at/eurocrypt2016/), deadline October 8th, 2015
  - [Real World Cryptography Conference (2016)](http://www.realworldcrypto.com/rwc2016), deadline Nov. 1st 2015 (they are looking for position papers)
