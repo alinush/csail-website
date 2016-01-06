@@ -1,13 +1,20 @@
 Cheatsheets
 ===========
 
-[Bash](bash/)
+Mac/OS X
+--------
+
+ * https://apple.stackexchange.com/questions/71101/how-do-i-make-%E2%8C%98%E2%86%90-and-%E2%8C%98%E2%86%92-work-for-home-end-combo-for-terminal
+ * http://www.tekrevue.com/tip/show-hidden-files-on-mac-os-x/
+ * `sudo scutil --set HostName macbook`
+
+[Bash](../bash/)
 -------------
 
-[ViM](vim/)
+[ViM](../vim/)
 -----------
 
-[Git](git/)
+[Git](../git/)
 -----------
 
 SSH
