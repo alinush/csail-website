@@ -8,6 +8,7 @@ Mac/OS X
  * [Show hidden files in Finder](http://www.tekrevue.com/tip/show-hidden-files-on-mac-os-x/)
  * [Lock or sleep your Mac](http://www.tekrevue.com/tip/the-fastest-way-to-lock-or-sleep-your-screen-in-mac-os-x/)
  * `sudo scutil --set HostName macbook`
+ * `brew cask install texmaker`
 
 [Bash](../bash/)
 -------------
