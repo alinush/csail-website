@@ -9,6 +9,7 @@ Mac/OS X
  * [Lock or sleep your Mac](http://www.tekrevue.com/tip/the-fastest-way-to-lock-or-sleep-your-screen-in-mac-os-x/)
  * `sudo scutil --set HostName macbook`
  * `brew cask install texmaker`
+ * [iTerm2 Solarized](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
 
 [Bash](../bash/)
 -------------
