@@ -10,6 +10,9 @@ Mac/OS X
  * `sudo scutil --set HostName macbook`
  * `brew cask install texmaker`
  * [iTerm2 Solarized](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
+ * [Add lock screen button](https://apple.stackexchange.com/questions/95819/mbp-lock-screen-hotkey-without-sleeping)
+ * [Add maximize window shortcut](http://osxdaily.com/2013/03/22/5-simple-window-management-keyboard-shortcuts-to-improve-workflow-in-mac-os-x/)
+   + Keyboard shortcut does not work for Chrome for some reason
 
 [Bash](../bash/)
 -------------
