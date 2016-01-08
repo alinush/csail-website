@@ -13,6 +13,9 @@ Mac/OS X
  * [Add lock screen button](https://apple.stackexchange.com/questions/95819/mbp-lock-screen-hotkey-without-sleeping)
  * [Add maximize window shortcut](http://osxdaily.com/2013/03/22/5-simple-window-management-keyboard-shortcuts-to-improve-workflow-in-mac-os-x/)
    + Keyboard shortcut does not work for Chrome for some reason
+ * [iTerm2 pane navigation shortcuts](https://stackoverflow.com/questions/9246235/iterm2-keyboard-shortcut-split-pane-navigation)
+   + New pane with `Cmd + D` or `Cmd + Shift + D`
+ * [Keyboard repeat rate](https://stackoverflow.com/questions/4489885/how-can-i-increase-the-cursor-speed-in-terminal)
 
 [Bash](../bash/)
 -------------
