@@ -16,6 +16,7 @@ Mac/OS X
  * [iTerm2 pane navigation shortcuts](https://stackoverflow.com/questions/9246235/iterm2-keyboard-shortcut-split-pane-navigation)
    + New pane with `Cmd + D` or `Cmd + Shift + D`
  * [Keyboard repeat rate](https://stackoverflow.com/questions/4489885/how-can-i-increase-the-cursor-speed-in-terminal)
+ * [Symlink /home to /Users](https://apple.stackexchange.com/questions/44058/mac-os-x-how-to-symlink-home-to-users)
 
 [Bash](../bash/)
 -------------
