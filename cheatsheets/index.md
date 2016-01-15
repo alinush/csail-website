@@ -18,6 +18,7 @@ Mac/OS X
  * [Keyboard repeat rate](https://stackoverflow.com/questions/4489885/how-can-i-increase-the-cursor-speed-in-terminal)
  * [Symlink /home to /Users](https://apple.stackexchange.com/questions/44058/mac-os-x-how-to-symlink-home-to-users)
  * [Cut and paste files in Finder](http://hints.macworld.com/article.php?story=201107211337186)
+   + `Cmd + C` and `Cmd + Option + V` 
  * `Cmd + F3` to show desktop
 
 [Bash](../bash/)
