@@ -4,6 +4,7 @@ Philosophy
 About everything, I suppose.
 
  * ["There's no importance whatsoever. I'm just doing it for the fun of it."](rpf.html), by Richard P. Feynman
+ * ["On Imagination", by Dr. Amar Bose](https://www.youtube.com/watch?v=zU1cEXbHgag)
  * [The pleasure of finding things out](../files/rpf.mp4), by Richard P. Feynman
    + [Alternate source](http://www.dailymotion.com/video/x24gwgc_richard-feynman-the-pleasure-of-finding-things-out_news)
  * [The computer scientist as a toolsmith](../files/toolsmith.pdf), by Fred Brooks
