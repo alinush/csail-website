@@ -13,6 +13,7 @@ Technical writing
  * [Write right for readers](http://www.maths.adelaide.edu.au/anthony.roberts/LaTeX/ltxwrite.php), by Anthony Roberts
  * [Research abstracts](http://writing.wisc.edu/Handbook/presentations_abstracts.html), by Univ. of Wisconsin
  * [How to write an abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html), by Philip Koopman
+ * [The science of scientific writing](science-of-writing.pdf), by George D. Gopen and Judith A. Swan
 
 My own notes:
 
