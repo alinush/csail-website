@@ -3,4 +3,4 @@ Some notes
 
  * [Rings vs. fields](rings-vs-fields.pdf)
  * [Countability](countability.pdf)
- * [Galois fields](galois-fields.pdf)
+ * Galois fields

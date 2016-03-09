@@ -1,5 +1,3 @@
-**TODO:** this page needs to be reachable from http://alinush.org/2012/08/05/vim-cheatsheet/
-
 ### Commands
 
 `u` - Undo  

@@ -1,19 +1,18 @@
-Some [crypto-math](crypto-math.pdf) I wrote.
-
 Books
 -----
 
-[Lecture notes on cryptography, Shafi Goldwasser, Mihir Bellare](http://cseweb.ucsd.edu/users/mihir/papers/gb.html)  
+[Lecture notes on cryptography](http://cseweb.ucsd.edu/users/mihir/papers/gb.html), Shafi Goldwasser, Mihir Bellare  
 [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)  
 [A computational introduction to number theory and algebra](http://shoup.net/ntb/)  
-[Number theory, Z.I. Borevich, I.R. Shafarevich](http://www.maths.ed.ac.uk/~aar/papers/borevich.pdf)  
-[Introduction to Number Theory, Hua Loo Keng](../files/intro-to-number-theory.pdf)  
+[Number theory](http://www.maths.ed.ac.uk/~aar/papers/borevich.pdf), Z.I. Borevich, I.R. Shafarevich  
+Introduction to Number Theory, Hua Loo Keng  
 [A course in computational algebraic number theory](http://www.plouffe.fr/simon/math/A%20course%20in%20computational%20algebraic%20number%20theory%20-%20Cohen.pdf)  
-[Algebraic Number Theory, Serge Lang](../files/algebraic-number-theory.pdf)  
+Algebraic Number Theory, Serge Lang  
 [Mathematical cryptology](http://math.tut.fi/~ruohonen/MC.pdf)  
 
 Courses
 -------
+
 [Princeton's COS433](http://www.cs.princeton.edu/courses/archive/fall07/cos433/)  
 [MIT's 6.857](https://courses.csail.mit.edu/6.857/)  
 [MIT's 6.897 Selected topics in Cryptography](http://courses.csail.mit.edu/6.897/spring04/materials.html)  
@@ -28,12 +27,13 @@ Links
 -----
 
 [http://kodu.ut.ee/\~lipmaa/crypto/](http://kodu.ut.ee/~lipmaa/crypto/)  
-[http://pqcrypto.org/](Post quantum crypto, by DJB)  
-[http://safecurves.cr.yp.to/](SafeCurves: choosing safe elliptic curves)  
+[Post quantum crypto](http://pqcrypto.org), by DJB  
+[SafeCurves: choosing safe elliptic curves](http://safecurves.cr.yp.to/)  
 [The matasano crypto challenges](http://cryptopals.com/)  
 
 Articles
 --------
+
 [Stick figure guide to AES](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)  
 [Cryptography and Number Theory for Digital Cash](https://groups.csail.mit.edu/mac/classes/6.805/articles/money/cryptnum.htm)  
 [Elliptic curve cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)  

@@ -1,5 +1,3 @@
-**TODO:** make sure this is accessible at http://alinush.org/2012/06/06/linux-cheatsheet/
-
 Bash
 ----
 
