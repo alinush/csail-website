@@ -1,5 +1,7 @@
 \documentclass[12pt]{article}
 \usepackage[margin=1in]{geometry}
+%\usepackage{enumerate}
+\usepackage{enumitem}
 \usepackage{fullpage}
 \usepackage{amsmath,amsthm,amssymb,amsfonts,amscd}
 \usepackage{mathabx}
@@ -26,7 +28,7 @@ url    = {http://math.stackexchange.com/a/141255/249083}
 
 A ring is an ordered triple, $(R,+,\times)$, where $R$ is a set, $+\colon R\times R\to R$ and $\times\colon R\times R\to R$ are binary operations (usually written in in-fix notation) such that:
 
-\begin{itemize}
+\begin{enumerate}
  \item $+$ is associative.
  \item There exists $0\in R$ such that $0+a=a+0=a$ for all $a\in R$.
  \item For every $a\in R$ there exists $b\in R$ such that $a+b=b+a=0$.
@@ -34,18 +36,19 @@ A ring is an ordered triple, $(R,+,\times)$, where $R$ is a set, $+\colon R\time
  \item $\times$ is associative.
  \item $\times$ distributes over $+$ on the left: for all $a,b,c\in R$, $a\times(b+c) = (a\times b)+(a\times c)$.
  \item $\times$ distributes over $+$ on the right: for all $a,b,c\in R$, $(b+c)\times a = (b\times a)+(c\times a)$.
-\end{itemize}
+\end{enumerate}
 
 1-4 tell us that $(R,+)$ is an abelian group. 5 tells us that $(R,\times)$ is a semigroup. 6 and 7 are the two distributive laws that you mention.
 
 We also have the following items:
 
-\begin{itemize}
+%\begin{enumerate}[a]
+\begin{enumerate}[label=(\alph*)]
  \item There exists $1\in R$ such that $1\times a = a\times 1 = a$ for all $a\in R$.
  \item $1\neq 0$.
  \item For every $a\in R$, $a\neq 0$, there exists $b\in R$ such that $a\times b = b\times a = 1$.
  \item $\times$ is commutative.
-\end{itemize}
+\end{enumerate}
 
 A ring that satisfies (1)-(7)+(a) is said to be a \textbf{ring with unity.} Clearly, every ring with unity is also a ring; it takes "more" to be a ring with unity than to be a ring.
 
