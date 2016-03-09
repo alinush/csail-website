@@ -6,7 +6,7 @@ Books
 [A computational introduction to number theory and algebra](http://shoup.net/ntb/)  
 [Number theory](http://www.maths.ed.ac.uk/~aar/papers/borevich.pdf), Z.I. Borevich, I.R. Shafarevich  
 Introduction to Number Theory, Hua Loo Keng  
-[A course in computational algebraic number theory](http://www.plouffe.fr/simon/math/A%20course%20in%20computational%20algebraic%20number%20theory%20-%20Cohen.pdf)  
+A course in computational algebraic number theory  
 Algebraic Number Theory, Serge Lang  
 [Mathematical cryptology](http://math.tut.fi/~ruohonen/MC.pdf)  
 
