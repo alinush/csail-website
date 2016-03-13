@@ -24,6 +24,10 @@ Mac/OS X
 [Bash](../bash/)
 -------------
 
+#### Cutting up a video file using `avconv`
+
+    avconv -i [input file] -ss [start time] -t [duration] -codec copy [output file]
+
 [ViM](../vim/)
 -----------
 
