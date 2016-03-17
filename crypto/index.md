@@ -8,6 +8,7 @@ Books
 Introduction to Number Theory, Hua Loo Keng  
 A course in computational algebraic number theory  
 Algebraic Number Theory, Serge Lang  
+Foundations of cryptography, Oded Goldreich (some materials [here](http://www.wisdom.weizmann.ac.il/~oded/foc.html))  
 [Mathematical cryptology](http://math.tut.fi/~ruohonen/MC.pdf)  
 
 Courses
