@@ -23,11 +23,10 @@ Sorted by deadline:
  - [IACR ASIACRYPT 2016](https://asiacrypt2016.com/), deadline May 20, 2016, 2:00am UTC.
  - [ACM CCS 2016](http://www.sigsac.org/ccs/CCS2016), 12 pages (incl. bib. and app.), deadline Monday, May 23, 2016 23:59 UTC-11.
  - [Annual Computer Security Applications Conference (ACSAC) 2016](https://www.acsac.org/about/), 10 pages (incl. bib. and app.), deadline June 1, 2016 11:59pm ET.
+ - [Workshop on Privacy in the Electronic Society (WPES) 2016](http://wpes2016.di.unimi.it/), 10 pages (incl. bib.), 12 pages w/ app., deadline, July 27th, 2016, 11:59pm (American Samoa time)
 
 No dates yet (some links might be 'not ready' yet):
 
- - Workshop on Privacy in the Electronic Society (WPES) 2016
-   + [Check here maybe](http://www.wikicfp.com/cfp/program?id=3147)
 
 Passed: 
 
