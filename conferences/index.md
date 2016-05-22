@@ -42,7 +42,6 @@ _No dates yet:_
 
 ## Conferences 2016 
 
- - [IACR ASIACRYPT 2016](https://asiacrypt2016.com/), deadline May 20, 2016, 2:00am UTC.
  - [ACM CCS 2016](http://www.sigsac.org/ccs/CCS2016), 12 pages (incl. bib. and app.), deadline Monday, May 23, 2016 23:59 UTC-11.,, happening Oct. 24-28, Vienna, Austria
  - [CCSW (ACM)](https://www.zurich.ibm.com/ccsw16/index.html), deadline July 27th, 2016, happening Oct. 28th, 2016, Vienna, Austria
  - [Annual Computer Security Applications Conference (ACSAC) 2016](https://www.acsac.org/about/), 10 pages (incl. bib. and app.), deadline June 1, 2016 11:59pm ET.
@@ -65,3 +64,18 @@ _No dates yet:_
  - _SPACE (IACR, Crypotology Research Society, India)_
  - [CCC](https://events.ccc.de/)
  - [IEEE/IFIP Int. Conf. on Dependable Systems and Networks (DSN)](http://www.dsn.org/)
+ - [Post-Snowden Cryptography](https://hyperelliptic.org/PSC/)
+
+## Passed conferences
+
+ - [ACNS 2016](http://acns2016.sccs.surrey.ac.uk/), deadline Jan. 27, 2016        
+ - [ASIACCS (ACM) 2016](http://meeting.xidian.edu.cn/conference/AsiaCCS2016/calls.html), deadline Nov. 20th, 2015       
+ - [ASIACRYPT (IACR) 2016](https://asiacrypt2016.com/), deadline May 20, 2016, 2:00am UTC.
+ - [CRYPTO (IACR) 2016](https://www.iacr.org/conferences/crypto2016/), deadline Feb. 9th, 2016      
+ - [EUROCRYPT (IACR) 2016](http://ist.ac.at/eurocrypt2016/), deadline October 8th, 2015     
+ - [PETS 2016](https://petsymposium.org/2016/), deadline April 15th, 2015 (they are looking for SoK, see [cfp](https://petsymposium.org/2016/cfp.php))        
+ - [Real World Cryptography Conference (2016)](http://www.realworldcrypto.com/rwc2016), deadline Nov. 1st 2015 (they are looking for position papers)     
+ - [SCN 2016](http://scn.dia.unisa.it/), deadline April 27th, 2016     
+ - [Security (USENIX) 2016](https://www.usenix.org/conference/usenixsecurity16), deadline Thursday, Feb. 18th, 2016     
+ - [Security & Privacy (IEEE) 2016](http://www.ieee-security.org/TC/SP2016/index.html), deadline Nov. 13th, 2015 (apply for [Student PC](http://www.ieee-security.org/TC/SP2016/studentpc.html))       
+ - [SPACE 2015](http://cse.iitkgp.ac.in/conf/SPACE2015/), deadline May 31st, 2015     
