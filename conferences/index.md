@@ -13,7 +13,30 @@ No dates yet:
  - ACNS 2017
  * Financial Cryptography and Data Security (FC) 2017
  * [NDSS 2017](http://www.internetsociety.org/events/ndss-symposium)
- * **TODO:** ESORICS, [[SCN]](http://scn.dia.unisa.it/)
+ * ESORICS
+ * SCN
+
+Conferences (alphabetical)
+--------------------------
+
+ - ACNS
+ - ACSAC
+ - ASIACRYPT (IACR)
+ - ASIACSS (ACM)
+ - CCS (ACM)
+ - CRYPTO (IACR)
+ - ESORICS
+ - EUROCRYPT (IACR)
+ - Financial Cryptography (FC)
+ - NDSS (Internet Society)
+ - PETS
+ - PKC (IACR)
+ - Real World Cryptography (RWC)
+ - SCN
+ - Security (USENIX)
+ - Security & Privacy (IEEE)
+ - _SPACE (IACR, Crypotology Research Society, India)_
+ - WPES (ACM)
 
 Conferences 2016 
 -----------------
@@ -25,11 +48,9 @@ Sorted by deadline:
  - [Annual Computer Security Applications Conference (ACSAC) 2016](https://www.acsac.org/about/), 10 pages (incl. bib. and app.), deadline June 1, 2016 11:59pm ET.
  - [Workshop on Privacy in the Electronic Society (WPES) 2016](http://wpes2016.di.unimi.it/), 10 pages (incl. bib.), 12 pages w/ app., deadline, July 27th, 2016, 11:59pm (American Samoa time)
 
-No dates yet (some links might be 'not ready' yet):
-
-
 Passed: 
 
+ * [SCN 2016](http://scn.dia.unisa.it/), deadline April 27th, 2016
  - [PETS 2016](https://petsymposium.org/2016/), deadline April 15th, 2015 (they are looking for SoK, see [cfp](https://petsymposium.org/2016/cfp.php))
  - [ACNS 2016](http://acns2016.sccs.surrey.ac.uk/), deadline Jan. 27, 2016
    + [Original link](http://icsd.i2r.a-star.edu.sg/staff/jianying/acns_home/)
