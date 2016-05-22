@@ -32,19 +32,19 @@ _No dates yet:_
  - PKC (IACR), [[web]](https://www.iacr.org/meetings/pkc/)
  - Real World Cryptography (RWC), [[web]](http://www.realworldcrypto.com/)
  - Conference on Security and Cryptography for Networks (SCN)
- - Security (USENIX) [[prev web]](https://www.usenix.org/conference/usenixsecurity16)
- - Security & Privacy (IEEE) [[prev web]](http://www.ieee-security.org/TC/SP2016/)
+ - Security (USENIX), [[prev web]](https://www.usenix.org/conference/usenixsecurity16)
+ - Security & Privacy (IEEE), [[prev web]](http://www.ieee-security.org/TC/SP2016/)
 
 ### Workshops
 
  - CCSW (ACM), [[prev web]](https://www.zurich.ibm.com/ccsw16/index.html)
- - WPES (ACM) [[prev web]](http://wpes2016.di.unimi.it/)
+ - WPES (ACM), [[prev web]](http://wpes2016.di.unimi.it/)
 
 ## Conferences 2016 
 
  - [IACR ASIACRYPT 2016](https://asiacrypt2016.com/), deadline May 20, 2016, 2:00am UTC.
- - [ACM CCS 2016](http://www.sigsac.org/ccs/CCS2016), 12 pages (incl. bib. and app.), deadline Monday, May 23, 2016 23:59 UTC-11.
- - [CCSW (ACM)](https://www.zurich.ibm.com/ccsw16/index.html)
+ - [ACM CCS 2016](http://www.sigsac.org/ccs/CCS2016), 12 pages (incl. bib. and app.), deadline Monday, May 23, 2016 23:59 UTC-11.,, happening Oct. 24-28, Vienna, Austria
+ - [CCSW (ACM)](https://www.zurich.ibm.com/ccsw16/index.html), deadline July 27th, 2016, happening Oct. 28th, 2016, Vienna, Austria
  - [Annual Computer Security Applications Conference (ACSAC) 2016](https://www.acsac.org/about/), 10 pages (incl. bib. and app.), deadline June 1, 2016 11:59pm ET.
  - [Workshop on Privacy in the Electronic Society (WPES) 2016](http://wpes2016.di.unimi.it/), 10 pages (incl. bib.), 12 pages w/ app., deadline, July 27th, 2016, 11:59pm (American Samoa time)
 
