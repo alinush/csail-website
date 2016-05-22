@@ -1,6 +1,6 @@
 ## Conferences 2017
  
- - [PETS 2017](https://petsymposium.org/cfp17.php), deadlines: May 31st, Aug. 31st, Nov. 30th, 2016, Feb. 28th, 2017, happening July 2017 in Minneapolis, Minnesota, USA
+ - [PETS 2017](https://petsymposium.org/cfp17.php), deadlines: May 31st, Aug. 31st, Nov. 30th, 2016, Feb. 28th, 2017 (notifications Aug. 1st, Oct. 31st, Feb. 1st, 2017, May 1st, 2017), happening July 2017 in Minneapolis, Minnesota, USA
  - [Real World Cryptography Conference (2017)](http://www.realworldcrypto.com/rwc2017), deadline Oct. 1st, 2016, happening ???, Columbia Univ., NYC
  - [IACR PKC 2017](https://www.iacr.org/workshops/pkc2017/), deadline Oct. 6, 2016, happening Mar. 28-31, 2017, Amsterdam, Netherlands
  - [IACR EUROCRYPT 2017](https://eurocrypt2017.di.ens.fr/), deadline ???, happening Apr. 30th to May 4th, 2017, Paris, France
@@ -14,6 +14,13 @@ _No dates yet:_
  - ACM ASIACCS 2017
  - ACNS 2017
  * Financial Cryptography and Data Security (FC) 2017
+
+## Conferences 2016 
+
+ - [ACM CCS 2016](http://www.sigsac.org/ccs/CCS2016), 12 pages (incl. bib. and app.), deadline Monday, May 23, 2016 23:59 UTC-11, happening Oct. 24-28, Vienna, Austria
+ - [CCSW (ACM)](https://www.zurich.ibm.com/ccsw16/index.html), deadline July 27th, 2016, notifications Sep. 5th, 2016, happening Oct. 28th, 2016, Vienna, Austria
+ - [Annual Computer Security Applications Conference (ACSAC) 2016](https://www.acsac.org/about/), 10 pages (incl. bib. and app.), deadline June 1, 2016 11:59pm ET, notifications Aug. 15th, 2016
+ - [Workshop on Privacy in the Electronic Society (WPES) 2016](http://wpes2016.di.unimi.it/), 10 pages (incl. bib.), 12 pages w/ app., deadline, July 27th, 2016, 11:59pm (American Samoa time), notifications out Sep. 5th, 2016
 
 ## Conferences (alphabetical)
 
@@ -39,13 +46,6 @@ _No dates yet:_
 
  - CCSW (ACM), [[prev web]](https://www.zurich.ibm.com/ccsw16/index.html)
  - WPES (ACM), [[prev web]](http://wpes2016.di.unimi.it/)
-
-## Conferences 2016 
-
- - [ACM CCS 2016](http://www.sigsac.org/ccs/CCS2016), 12 pages (incl. bib. and app.), deadline Monday, May 23, 2016 23:59 UTC-11.,, happening Oct. 24-28, Vienna, Austria
- - [CCSW (ACM)](https://www.zurich.ibm.com/ccsw16/index.html), deadline July 27th, 2016, happening Oct. 28th, 2016, Vienna, Austria
- - [Annual Computer Security Applications Conference (ACSAC) 2016](https://www.acsac.org/about/), 10 pages (incl. bib. and app.), deadline June 1, 2016 11:59pm ET.
- - [Workshop on Privacy in the Electronic Society (WPES) 2016](http://wpes2016.di.unimi.it/), 10 pages (incl. bib.), 12 pages w/ app., deadline, July 27th, 2016, 11:59pm (American Samoa time)
 
 ## Conference tips
 
