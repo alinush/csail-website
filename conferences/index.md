@@ -13,6 +13,7 @@
 
  | Deadline   |        Name     |  Notification | Location                  | When       | Web link |
  | ---------- | :-------------- | :------------ | :-------------------------| :--------- | :------- |
+ | 08/29/2016 | ENIGMA'17       | 10/??/2016    | Oakland, CA               | 01/30/2017 | [ENGIMA'17](https://www.usenix.org/conference/enigma2017#call)
  | 08/31/2016 | PETS'17         | 10/31/2016    | Minneapolis, MN           | 07/18/2017 | [PETS'17](https://petsymposium.org/cfp17.php)
  | 10/01/2016 | RWC'17          | 11/15/2016    | Columbia Univ., NYC       | 01/04/2017 | [RWC'17](http://www.realworldcrypto.com/rwc2017)
  | 10/01/2016 | EUROCRYPT'17    | 12/03/2016    | Paris, France             | 04/30/2017 | [EUROCRYPT'17](https://eurocrypt2017.di.ens.fr/)
@@ -70,6 +71,7 @@
  | ASIACSS      | [[web]](http://dl.acm.org/event.cfm?id=RE289)
  | CCS          | [[web]](https://www.sigsac.org/ccs.html)
  | CRYPTO       | [[web]](https://www.iacr.org/meetings/crypto/)
+ | ENIGMA       | [['16 web]](https://www.usenix.org/conference/enigma2016)
  | ESORICS      | [[web]](http://homepages.laas.fr/esorics/)
  | EUROCRYPT    | [[web]](https://www.iacr.org/meetings/eurocrypt/)
  | FC           | [[web]](http://ifca.ai/), [['16 web]](http://fc16.ifca.ai/)
