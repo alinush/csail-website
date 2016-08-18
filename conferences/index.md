@@ -1,51 +1,93 @@
+<head>
+    <style>
+        table {
+            /*border-collapse: separate;*/
+            border-spacing: 15px 5px;
+        }
+    </style>
+</head>
+
 ## Conferences 2017
- 
- - [PETS 2017](https://petsymposium.org/cfp17.php), deadlines: May 31st, Aug. 31st, Nov. 30th, 2016, Feb. 28th, 2017 (notifications Aug. 1st, Oct. 31st, Feb. 1st, 2017, May 1st, 2017), happening July 2017 in Minneapolis, Minnesota, USA
- - [Real World Cryptography Conference (2017)](http://www.realworldcrypto.com/rwc2017), deadline Oct. 1st, 2016, happening ???, Columbia Univ., NYC
- - [IACR PKC 2017](https://www.iacr.org/workshops/pkc2017/), deadline Oct. 6, 2016, happening Mar. 28-31, 2017, Amsterdam, Netherlands
- - [IACR EUROCRYPT 2017](https://eurocrypt2017.di.ens.fr/), deadline ???, happening Apr. 30th to May 4th, 2017, Paris, France
- * [NDSS 2017](http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017), deadline ???, happening ???, 
 
-_No dates yet:_
+**Note:** Deadline might be for abstract instead of full paper.
 
- - IACR CRYPTO 2017
- - [USENIX Security 2017](https://www.usenix.org/conference/usenixsecurity17)
- - [IEEE Security & Privacy 2017](http://www.ieee-security.org/TC/SP2017) 
- - ACM ASIACCS 2017
- - ACNS 2017
- * Financial Cryptography and Data Security (FC) 2017
+ | Deadline   |        Name     |  Notification | Location                  | When       | Web link |
+ | ---------- | :-------------- | :------------ | :-------------------------| :--------- | :------- |
+ | 08/31/2016 | PETS'17         | 10/31/2016    | Minneapolis, MN           | 07/18/2017 | [PETS'17](https://petsymposium.org/cfp17.php)
+ | 10/01/2016 | RWC'17          | 11/15/2016    | Columbia Univ., NYC       | 01/04/2017 | [RWC'17](http://www.realworldcrypto.com/rwc2017)
+ | 10/01/2016 | EUROCRYPT'17    | 12/03/2016    | Paris, France             | 04/30/2017 | [EUROCRYPT'17](https://eurocrypt2017.di.ens.fr/)
+ | 10/06/2016 | IACR PKC'17     | 12/15/2016    | Amsterdam, Netherlands    | 03/28/2017 | [PKC'17](https://www.iacr.org/workshops/pkc2017/)
+ | 11/01/2016 | ASIACCS'17      | 01/10/2017    | Abu Dhabi, UAE            | 04/02/2017 | [ASIACCS'17](http://asiaccs2017.com/)
+ | 11/04/2016 | SP'17           | 02/09/2017    | San Jose, CA              | 05/22/2017 | [SP'17](http://www.ieee-security.org/TC/SP2017)
+ | 11/30/2016 | PETS'17         | 02/01/2017    | Minneapolis, MN           | 07/18/2017 | [PETS'17](https://petsymposium.org/cfp17.php)
+ | 02/28/2017 | PETS'17         | 05/01/2017    | Minneapolis, MN           | 07/18/2017 | [PETS'17](https://petsymposium.org/cfp17.php)
+ |            |                 |               |                           |            | 
+ |            |                 |               |                           |            | 
+ | ??/??/2017 | CRYPTO'17       | ??/??/2017    | ??, ??                    | ??/??/2017 | <strike>[CRYPTO](https://www.iacr.org/meetings/crypto/)</strike>
+ | ??/??/2017 | USENIX Sec'17   | ??/??/2017    | ??, ??                    | ??/??/2017 | [USENIX Sec'17](https://www.usenix.org/conference/usenixsecurity17)
+ | ??/??/2017 | ACNS'17         | ??/??/2017    | Kanazawa, Japan           | ??/??/2017 | <strike>[ACNS](http://icsd.i2r.a-star.edu.sg/staff/jianying/acns_home/)</strike>
+ | ??/??/2017 | FC'17           | ??/??/2017    | Malta                     | 04/03/2017 | [FC'17](http://fc17.ifca.ai/)
+ | ??/??/2017 | BITCOIN'17      | ?? ??/2017    | ??, ??                    | ??/??/2017 | <strike>[BITCOIN'17](http://fc17.ifca.ai/bitcoin)</strike>
+ | ??/??/2017 | CCS'17          | ??/??/2017    | ??, ??                    | ??/??/2017 | <strike>[CCS'17](https://www.sigsac.org/ccs.html)</strike> 
+ | ??/??/2017 | CCSW'17         | ??/??/2017    | ??, ??                    | ??/??/2017 | ??
+ | ??/??/2017 | WPES'17         | ??/??/2017    | ??, ??                    | ??/??/2017 | ??
+ | ??/??/2017 | ACSAC'17        | ??/??/2017    | ??, ??                    | ??/??/2017 | <strike>[ACSAC'16](https://www.acsac.org/about/)</strike>
+ | ??/??/2017 | NDSS'18         | ??/??/2017    | ??, ??                    | ??/??/2018 | <strike>[NDSS'18](http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2018)</strike>
+ | ??/??/2017 | ASIACRYPT'16    | ??/??/2017    | ??, ??                    | ??/??/2017 | ??
+ | ??/??/2017 | SCN'17          | ??/??/2017    | ??, ??                    | ??/??/2017 | ??
+ | ??/??/2017 | ??              | ??/??/2017    | ??, ??                    | ??/??/2017 | ??
 
-## Conferences 2016 
+### Passed
 
- - [ACM CCS 2016](http://www.sigsac.org/ccs/CCS2016), 12 pages (incl. bib. and app.), deadline Monday, May 23, 2016 23:59 UTC-11, happening Oct. 24-28, Vienna, Austria
- - [CCSW (ACM)](https://www.zurich.ibm.com/ccsw16/index.html), deadline July 27th, 2016, notifications Sep. 5th, 2016, happening Oct. 28th, 2016, Vienna, Austria
- - [Annual Computer Security Applications Conference (ACSAC) 2016](https://www.acsac.org/about/), 10 pages (incl. bib. and app.), deadline June 1, 2016 11:59pm ET, notifications Aug. 15th, 2016
- - [Workshop on Privacy in the Electronic Society (WPES) 2016](http://wpes2016.di.unimi.it/), 10 pages (incl. bib.), 12 pages w/ app., deadline, July 27th, 2016, 11:59pm (American Samoa time), notifications out Sep. 5th, 2016
+ | Deadline   |        Name     |  Notification | Location                  | When       | Accepted papers link |
+ | ---------- | :-------------- | :------------ | :------------------------ | :--------- | :------- |
+ | many       | PETS'16         | many          | Darmstadt, Germany        | 07/19/2016 | [PETS'16](https://petsymposium.org/2016/spw-mirror/pets-2016/program/)
+ | 10/08/2015 | EUROCRYPT'16    | 12/10/2015    | Vienna, Austria           | 05/08/2016 | [EUROCRYPT'16](http://ist.ac.at/eurocrypt2016/program.html)
+ | unknown    | RWC'16          | unknown       | Stanford, CA              | 01/06/2016 | [RWC'16](http://www.realworldcrypto.com/rwc2016)
+ | 10/11/2015 | FC'16           | 11/29/2015    | Barbados                  | 02/22/2016 | [FC'16](http://fc16.ifca.ai/program.html)
+ | 11/10/2015 | BITCOIN'16      | 12/15/2015    | Barbados                  | 02/26/2016 | [BITCOIN'16](http://fc16.ifca.ai/bitcoin/program.html)
+ | 11/13/2015 | SP'16           | 02/07/2016    | San Jose, CA              | 05/23/2016 | [SP'16](http://www.ieee-security.org/TC/SP2016/program.html)
+ | 11/27/2015 | ASIACCS'16      | 02/01/2016    | Xian, China               | 05/30/2016 | [ASIACCS'16](http://meeting.xidian.edu.cn/conference/AsiaCCS2016/calls.html)
+ | 02/09/2016 | CRYPTO'16       | 05/06/2016    | UCSB, CA                  | 08/14/2016 | [CRYPTO'16](https://www.iacr.org/conferences/crypto2016/acceptedpapers.html)
+ | 02/10/2016 | ACNS'16         | 03/30/2016    | London, UK                | 06/19/2016 | [ACNS'16](http://acns2016.sccs.surrey.ac.uk/program.html)
+ | 02/18/2016 | USENIX Sec'16   | 05/16/2016    | Austin, TX                | 08/10/2016 | [USENIX Sec'16](https://www.usenix.org/conference/usenixsecurity16/technical-sessions)
+ | 04/27/2016 | SCN'16          | 06/19/2016    | Amalfi, Italy             | 08/31/2016 | [SCN'16](http://scn.dia.unisa.it/program.shtml)
+ | 05/20/2016 | ASIACRYPT'16    | 07/10/2016    | Hanoi, Vietnam            | 12/04/2016 | [ASIACRYPT'16](http://www.asiacrypt2016.com/?page_id=62)
+ | 05/23/2016 | CCS'16          | 07/05/2016    | Vienna, Austria           | 10/24/2016 | [CCS'16](http://www.sigsac.org/ccs/CCS2016/accepted-papers)
+ | 06/08/2016 | ACSAC'16        | 08/15/2016    | Los Angeles, CA           | 12/05/2016 | <strike>[ACSAC'16](https://www.acsac.org/about/)</strike>
+ | 07/26/2016 | CCSW'16         | 09/05/2017    | Vienna, Austria           | 10/28/2016 | [CCSW'16](https://www.zurich.ibm.com/ccsw16/program.html) 
+ | 08/06/2016 | WPES'16         | 09/05/2017    | Vienna, Austria           | 10/24/2016 | <strike>[WPES'16](http://wpes2016.di.unimi.it/)</strike> 
+ | 08/12/2016 | NDSS 2017       | 10/22/2016    | San Diego, CA             | 02/26/2017 | <strike>[NDSS'17](http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017)</strike>
+ |            |                 |               |                           |            | 
 
-## Conferences (alphabetical)
+## Conference websites
 
- - ACNS, [[web]](http://icsd.i2r.a-star.edu.sg/staff/jianying/acns_home/)
- - ACSAC, [[web]](https://www.acsac.org/)
- - ASIACRYPT (IACR), [[web]](https://www.iacr.org/meetings/asiacrypt/)
- - ASIACSS (ACM), [[web]](http://dl.acm.org/event.cfm?id=RE289)
- - CCS (ACM), [[web]](https://www.sigsac.org/ccs.html)
- - CRYPTO (IACR), [[web]](https://www.iacr.org/meetings/crypto/)
- - ESORICS, [[web]](http://homepages.laas.fr/esorics/)
- - EUROCRYPT (IACR), [[web]](https://www.iacr.org/meetings/eurocrypt/)
- - Financial Cryptography (FC), [[prev web]](http://fc16.ifca.ai/)
- - NDSS (Internet Society), [[web]](http://www.internetsociety.org/events/ndss-symposium)
- - NSDI (USENIX), [[prev web]](https://www.usenix.org/conference/nsdi16)
- - PETS, [[web]](https://petsymposium.org/)
- - PKC (IACR), [[web]](https://www.iacr.org/meetings/pkc/)
- - Real World Cryptography (RWC), [[web]](http://www.realworldcrypto.com/)
- - Conference on Security and Cryptography for Networks (SCN)
- - Security (USENIX), [[prev web]](https://www.usenix.org/conference/usenixsecurity16)
- - Security & Privacy (IEEE), [[prev web]](http://www.ieee-security.org/TC/SP2016/)
+ | Name         | Web link           |  
+ | ------------ | -------------------|
+ | ACNS         | [[web]](http://icsd.i2r.a-star.edu.sg/staff/jianying/acns_home/)
+ | ACSAC        | [[web]](https://www.acsac.org/)
+ | ASIACRYPT    | [[web]](https://www.iacr.org/meetings/asiacrypt/)
+ | ASIACSS      | [[web]](http://dl.acm.org/event.cfm?id=RE289)
+ | CCS          | [[web]](https://www.sigsac.org/ccs.html)
+ | CRYPTO       | [[web]](https://www.iacr.org/meetings/crypto/)
+ | ESORICS      | [[web]](http://homepages.laas.fr/esorics/)
+ | EUROCRYPT    | [[web]](https://www.iacr.org/meetings/eurocrypt/)
+ | FC           | [[web]](http://ifca.ai/), [['16 web]](http://fc16.ifca.ai/)
+ | NDSS         | [[web]](http://www.internetsociety.org/events/ndss-symposium)
+ | NSDI         | [['16 web]](https://www.usenix.org/conference/nsdi16)
+ | PETS         | [[web]](https://petsymposium.org/)
+ | PKC          | [[web]](https://www.iacr.org/meetings/pkc/)
+ | RWC          | [[web]](http://www.realworldcrypto.com/)
+ | SCN          | [[prev web]](http://scn.dia.unisa.it/)
+ | SP           | [[prev web]](http://www.ieee-security.org/TC/SP2016/)
+ | USENIX Sec   | [[prev web]](https://www.usenix.org/conference/usenixsecurity16)
 
 ### Workshops
 
- - CCSW (ACM), [[prev web]](https://www.zurich.ibm.com/ccsw16/index.html)
- - WPES (ACM), [[prev web]](http://wpes2016.di.unimi.it/)
+ | Name         | Web link           |  
+ | ------------ | -------------------|
+ | CCSW         | [['16 web]](https://www.zurich.ibm.com/ccsw16/index.html)
+ | WPES         | [['16 web]](http://wpes2016.di.unimi.it/)
 
 ## Conference tips
 
@@ -57,25 +99,12 @@ _No dates yet:_
  - [Microsoft Academic Search](http://academic.research.microsoft.com/RankList?entitytype=3&topdomainid=2&subdomainid=2&last=0)
 
 
-## Other conferences of interest
+## Other conferences/workshops of interest
  
  - [International Symposium on Research in Attacks, Intrusions and Defenses (RAID)](http://www.raid-symposium.org/)
  - [Fast Software Encryption](https://www.iacr.org/meetings/fse/) 
  - _SPACE (IACR, Crypotology Research Society, India)_
  - [CCC](https://events.ccc.de/)
  - [IEEE/IFIP Int. Conf. on Dependable Systems and Networks (DSN)](http://www.dsn.org/)
+ - [SECRYPT](http://www.secrypt.icete.org/Home.aspx)
  - [Post-Snowden Cryptography](https://hyperelliptic.org/PSC/)
-
-## Passed conferences
-
- - [ACNS 2016](http://acns2016.sccs.surrey.ac.uk/), deadline Jan. 27, 2016        
- - [ASIACCS (ACM) 2016](http://meeting.xidian.edu.cn/conference/AsiaCCS2016/calls.html), deadline Nov. 20th, 2015       
- - [ASIACRYPT (IACR) 2016](https://asiacrypt2016.com/), deadline May 20, 2016, 2:00am UTC.
- - [CRYPTO (IACR) 2016](https://www.iacr.org/conferences/crypto2016/), deadline Feb. 9th, 2016      
- - [EUROCRYPT (IACR) 2016](http://ist.ac.at/eurocrypt2016/), deadline October 8th, 2015     
- - [PETS 2016](https://petsymposium.org/2016/), deadline April 15th, 2015 (they are looking for SoK, see [cfp](https://petsymposium.org/2016/cfp.php))        
- - [Real World Cryptography Conference (2016)](http://www.realworldcrypto.com/rwc2016), deadline Nov. 1st 2015 (they are looking for position papers)     
- - [SCN 2016](http://scn.dia.unisa.it/), deadline April 27th, 2016     
- - [Security (USENIX) 2016](https://www.usenix.org/conference/usenixsecurity16), deadline Thursday, Feb. 18th, 2016     
- - [Security & Privacy (IEEE) 2016](http://www.ieee-security.org/TC/SP2016/index.html), deadline Nov. 13th, 2015 (apply for [Student PC](http://www.ieee-security.org/TC/SP2016/studentpc.html))       
- - [SPACE 2015](http://cse.iitkgp.ac.in/conf/SPACE2015/), deadline May 31st, 2015     
