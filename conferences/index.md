@@ -23,7 +23,7 @@
  | ---------  | --------------- | ------------  | ------------------------  | ---------  | --------
  |            |                 |               |                           |            | 
  | ??/??/2017 | CRYPTO'17       | ??/??/2017    | ??, ??                    | ??/??/2017 | <strike>[CRYPTO](https://www.iacr.org/meetings/crypto/)</strike>
- | ??/??/2017 | USENIX Sec'17   | ??/??/2017    | ??, ??                    | ??/??/2017 | [USENIX Sec'17](https://www.usenix.org/conference/usenixsecurity17)
+ | ??/??/2017 | USENIX Sec'17   | ??/??/2017    | Vancouver, BC             | 08/16/2017 | [USENIX Sec'17](https://www.usenix.org/conference/usenixsecurity17)
  | ??/??/2017 | ACNS'17         | ??/??/2017    | Kanazawa, Japan           | ??/??/2017 | <strike>[ACNS](http://icsd.i2r.a-star.edu.sg/staff/jianying/acns_home/)</strike>
  | ??/??/2017 | FC'17           | ??/??/2017    | Malta                     | 04/03/2017 | [FC'17](http://fc17.ifca.ai/)
  | ??/??/2017 | BITCOIN'17      | ?? ??/2017    | ??, ??                    | ??/??/2017 | <strike>[BITCOIN'17](http://fc17.ifca.ai/bitcoin)</strike>
