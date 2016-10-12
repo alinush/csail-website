@@ -18,6 +18,7 @@
  | 11/01/2016 | ASIACCS'17      | 01/10/2017    | Abu Dhabi, UAE            | 04/02/2017 | [ASIACCS'17](http://asiaccs2017.com/)
  | 11/04/2016 | SP'17           | 02/09/2017    | San Jose, CA              | 05/22/2017 | [SP'17](http://www.ieee-security.org/TC/SP2017)
  | 11/30/2016 | PETS'17         | 02/01/2017    | Minneapolis, MN           | 07/18/2017 | [PETS'17](https://petsymposium.org/cfp17.php)
+ | 12/14/2016 | IEEE S&B        | 01/13/2017    | Paris, France             | 04/29/2017 | [S&B'17](http://prosecco.gforge.inria.fr/ieee-blockchain2016/#cfp)
  | 02/28/2017 | PETS'17         | 05/01/2017    | Minneapolis, MN           | 07/18/2017 | [PETS'17](https://petsymposium.org/cfp17.php)
  |            |                 |               |                           |            | 
  | ---------  | --------------- | ------------  | ------------------------  | ---------  | --------
