@@ -11,7 +11,7 @@
 
 **Note:** Deadline might be for abstract instead of full paper.
 
- - Cut web links means I need to update info related to deadline/location/date/etc.
+ - <strike>[Cut web links](#)</strike> means I need to update info related to deadline/location/date/etc.
 
  | Deadline   |        Name     |  Notification | Location                  | When       | Web link |
  | ---------- | :-------------- | :------------ | :-------------------------| :--------- | :------- |
@@ -41,10 +41,10 @@
 
 Sorted by deadline.
 
- - Bold web links mean we have the link, but the conference accepted papers are not posted yet
- - <strike>crossed out</strike> web links means we don't have the conference accepted papers link
- * Normal (no extra formatting) web links means I haven't skimmed the conference accepted papers
- - Small links means I skimmed the conference accepted papers and copied the link in the historical subsection below
+ - **[Bold web links](#)** mean we have the link, but the conference accepted papers are not posted yet
+ - <strike>[Crossed out web links](#)</strike> means we don't have the conference accepted papers link
+ * [Normal (no extra formatting) web links](#) means I haven't skimmed the conference accepted papers
+ - <small>[Small links](#)</small> means I skimmed the conference accepted papers and copied the link in the historical subsection below
 
  | Deadline   |        Name     |  Notification | Location                  | When       | Accepted papers link |
  | ---------- | :-------------- | :------------ | :------------------------ | :--------- | :------- |
