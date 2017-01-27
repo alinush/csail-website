@@ -27,7 +27,7 @@
  | ??/??/2017 | ACSAC'17        | ??/??/2017    | ??, ??                    | ??/??/2017 | [ACSAC'17](https://www.acsac.org/about/)
  | ??/??/2017 | NDSS'18         | ??/??/2017    | ??, ??                    | ??/??/2018 | [NDSS'18](http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2018)
  | ??/??/2017 | ASIACRYPT'17    | ??/??/2017    | ??, ??                    | ??/??/2017 | [ASIACRYPT'17](https://www.iacr.org/meetings/asiacrypt/)
- | ??/??/2017 | SCN'17          | ??/??/2017    | ??, ??                    | ??/??/2017 | ??
+ | ??/??/2017 | SCN'17          | ??/??/2017    | ??, ??                    | ??/??/2017 | [SCN'17](https://www.google.com/search?q=security+and+cryptography+for+networks+2017&sourceid=chrome&ie=UTF-8)
 
 <!-- | ??/??/2017 | ??              | ??/??/2017    | ??, ??                    | ??/??/2017 | ?? -->
 
@@ -55,6 +55,22 @@
 
  | Deadline   |        Name     |  Notification | Location                  | When       | Web link |
  | ---------- | :-------------- | :------------ | :-------------------------| :--------- | :------- |
+ |            | BITCOIN'18      |               |                           |            | not ready, [BITCOIN'17](http://fc17.ifca.ai/bitcoin)
+ |            | IEEE S&B'18     |               |                           |            | not ready, [S&B'17](http://prosecco.gforge.inria.fr/ieee-blockchain2016/#cfp)
+ |            | FC'18           |               |                           |            | not ready, [FC'17](http://fc17.ifca.ai/)
+ |            | SP'18           |               |                           |            | not ready, [SP'17](http://www.ieee-security.org/TC/SP2017)
+ |            | ASIACCS'18      |               |                           |            | not ready, [ASIACCS'17](http://asiaccs2017.com/)
+ |            | EUROCRYPT'18    |               |                           |            | not ready, [EUROCRYPT'17](https://eurocrypt2017.di.ens.fr/accepted.html)
+ |            | ENIGMA'18       |               |                           |            | not ready, [ENGIMA'17](https://www.usenix.org/conference/enigma2017/conference-program)
+ |            | PETS'18         |               |                           |            | not ready, [PETS'17](https://petsymposium.org/cfp17.php)
+ |            | IACR PKC'18     |               |                           |            | not ready, [PKC'17](https://www.iacr.org/workshops/pkc2017/accepted.html)
+ |            | RWC'18          |               |                           |            | not ready, [RWC'17](http://www.realworldcrypto.com/rwc2017/program)
+ |            | NSDI'18         |               |                           |            | not ready, [NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions)
+ |            | PETS'18 (i1)    |               |                           |            | not ready, [PETS'17](https://petsymposium.org/2017/paperlist.php)
+ |            | PETS'18 (i2)    |               |                           |            | not ready, [PETS'17](https://petsymposium.org/2017/paperlist.php)
+ |            | PETS'18 (i3)    |               |                           |            | not ready, [PETS'17](https://petsymposium.org/2017/paperlist.php)
+ |            | PETS'18 (i4)    |               |                           |            | not ready, [PETS'17](https://petsymposium.org/2017/paperlist.php)
+ |            | NDSS'18         |               |                           |            | not ready, [NDSS'17](http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme)
 
 ### Passed 2016
 
