@@ -17,14 +17,12 @@
  | 04/19/2017 | ESORICS'17      | 06/16/2017    | Oslo, Norway              | 09/11/2017 | [ESORICS'17](https://www.ntnu.edu/esorics2017)
  | 02/28/2017 | PETS'17 (i4)    | 05/01/2017    | Minneapolis, MN           | 07/18/2017 | [PETS'17](https://petsymposium.org/cfp17.php)
  | 02/16/2017 | USENIX Sec'17   | 05/12/2017    | Vancouver, BC             | 08/16/2017 | [USENIX Sec'17](https://www.usenix.org/conference/usenixsecurity17)
- | 02/09/2017 | CRYPTO'17       | 05/08/2017    | UCSB, CA                  | 08/20/2017 | [CRYPTO'17](https://www.iacr.org/conferences/crypto2017)
- | 02/03/2017 | ACNS'17         | 04/07/2017    | Kanazawa, Japan           | 07/10/2017 | [ACNS'17](https://cy2sec.comm.eng.osaka-u.ac.jp/acns2017/)
  |            |                 |               |                           |            | 
  | ---------  | --------------- | ------------  | ------------------------  | ---------  | --------
  |            |                 |               |                           |            | 
  | ??/??/2017 | CCSW'17         | ??/??/2017    | ??, ??                    | ??/??/2017 | [CCSW'17](https://www.sigsac.org/ccs/CCS2017/)
  | ??/??/2017 | WPES'17         | ??/??/2017    | ??, ??                    | ??/??/2017 | [WPES'17](https://www.sigsac.org/ccs/CCS2017/)
- | ??/??/2017 | ACSAC'17        | ??/??/2017    | ??, ??                    | ??/??/2017 | [ACSAC'17](https://www.acsac.org/about/)
+ | ??/??/2017 | ACSAC'17        | ??/??/2017    | San Juan, Puerto Rico     | 12/04/2017 | [ACSAC'17](https://www.acsac.org/about/)
  | ??/??/2017 | NDSS'18         | ??/??/2017    | ??, ??                    | ??/??/2018 | [NDSS'18](http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2018)
  | ??/??/2017 | ASIACRYPT'17    | ??/??/2017    | ??, ??                    | ??/??/2017 | [ASIACRYPT'17](https://www.iacr.org/meetings/asiacrypt/)
  | ??/??/2017 | SCN'17          | ??/??/2017    | ??, ??                    | ??/??/2017 | [SCN'17](https://www.google.com/search?q=security+and+cryptography+for+networks+2017&sourceid=chrome&ie=UTF-8)
@@ -37,10 +35,12 @@
 
  | Deadline   |        Name     |  Notification | Location                  | When       | Accepted papers link |
  | ---------- | :-------------- | :------------ | :------------------------ | :--------- | :------------------- |
+ | 02/09/2017 | CRYPTO'17       | 05/08/2017    | UCSB, CA                  | 08/20/2017 | no acc, [CRYPTO'17](https://www.iacr.org/conferences/crypto2017/acceptedpapers.html)
+ | 02/03/2017 | ACNS'17         | 04/07/2017    | Kanazawa, Japan           | 07/10/2017 | no acc, [ACNS'17](https://cy2sec.comm.eng.osaka-u.ac.jp/acns2017/program.html)
  | 12/15/2016 | BITCOIN'17      | 01/30/2017    | Malta                     | 04/07/2017 | no acc, [BITCOIN'17](http://fc17.ifca.ai/bitcoin)
  | 12/14/2016 | IEEE S&B'17     | 01/13/2017    | Paris, France             | 04/29/2017 | no acc, [S&B'17](http://prosecco.gforge.inria.fr/ieee-blockchain2016/#cfp)
  | 11/04/2016 | SP'17           | 02/09/2017    | San Jose, CA              | 05/22/2017 | no acc, [SP'17](http://www.ieee-security.org/TC/SP2017)
- | 11/01/2016 | ASIACCS'17      | 01/10/2017    | Abu Dhabi, UAE            | 04/02/2017 | no acc, [ASIACCS'17](http://asiaccs2017.com/)
+ | 11/01/2016 | ASIACCS'17      | 01/10/2017    | Abu Dhabi, UAE            | 04/02/2017 | no acc, [ASIACCS'17](http://asiaccs2017.com/program/)
  | 10/01/2016 | EUROCRYPT'17    | 12/03/2016    | Paris, France             | 04/30/2017 | no acc, [EUROCRYPT'17](https://eurocrypt2017.di.ens.fr/accepted.html)
  | 08/29/2016 | ENIGMA'17       | 10/??/2016    | Oakland, CA               | 01/30/2017 | **toread**, [ENGIMA'17](https://www.usenix.org/conference/enigma2017/conference-program)
  | 11/30/2016 | PETS'17         | 02/01/2017    | Minneapolis, MN           | 07/18/2017 | &#10004; [PETS'17](https://petsymposium.org/cfp17.php)
