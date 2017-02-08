@@ -10,6 +10,8 @@ A course in computational algebraic number theory
 Algebraic Number Theory, Serge Lang  
 Foundations of cryptography, Oded Goldreich (some materials [here](http://www.wisdom.weizmann.ac.il/~oded/foc.html))  
 [Mathematical cryptology](http://math.tut.fi/~ruohonen/MC.pdf)  
+[Cryptography and network security : principles and practice](http://libproxy.mit.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=cookie,sso,ip,uid&db=cat00916a&AN=mit.002452785&site=eds-live), William Stallings  
+
 
 Courses
 -------
