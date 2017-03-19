@@ -15,6 +15,7 @@ Technical writing
  * [How to write an abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html), by Philip Koopman
  * [The science of scientific writing](science-of-writing.pdf), by George D. Gopen and Judith A. Swan
  * [Writing Scholarly Papers](writing-scholarly-papers.pdf), by Stephen A. Edwards
+ - [That which is restrictive](that-which-is-restrictive.pdf), by Stan Carey
 
 My own notes:
 
