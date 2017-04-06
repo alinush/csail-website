@@ -26,7 +26,7 @@ Mac/OS X
 
 #### Cutting up a video file using `avconv`
 
-    avconv -i [input file] -ss [start time hh:mm:ss] -t [duration in secs] -codec copy [output file]
+    avconv -i [input file] -ss [start time hh:mm:ss.milisecs] -t [duration in secs] -codec copy [output file]
 
 [ViM](../vim/)
 -----------
