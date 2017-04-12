@@ -28,6 +28,8 @@ Mac/OS X
 
     avconv -i [input file] -ss [start time hh:mm:ss.milisecs] -t [duration in secs] -codec copy [output file]
 
+Or use `-to [end time hh:mm:ss.milisecs]` to indicate the time at which to stop cutting instead of the duration.
+
 [ViM](../vim/)
 -----------
 
