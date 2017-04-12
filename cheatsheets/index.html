@@ -34,7 +34,8 @@
 <pre><code>avconv -i [input file] -ss [start time hh:mm:ss.milisecs] -t [duration in secs] -codec copy [output file]
 </code></pre>
 
-<p>Or use <code>-to [end time hh:mm:ss.milisecs]</code> to indicate the time at which to stop cutting instead of the duration.</p>
+<p>Or use <code>-to [end time hh:mm:ss.milisecs]</code> to indicate the time at which to stop cutting instead of the duration. <br />
+<strong>Note:</strong> If you chose to not re-encode (i.e., you use the <code>-codec copy</code> option), in many cases the trimmed/cut output file will not have the first 5 seconds of the video, which is super-annoying. To fix this, just remove the <code>-codec copy</code>, which will take a longer time but give you an actual good cut.</p>
 
 <h2><a href="../vim/">ViM</a></h2>
 
