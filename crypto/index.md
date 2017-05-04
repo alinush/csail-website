@@ -25,6 +25,7 @@ Courses
 [RIT's CSCI 462](http://www.cs.rit.edu/~ark/462/module08/notes.shtml)  
 [Stanford's Elliptic Curve course](http://theory.stanford.edu/~dfreeman/cs259c-f11/)  
 [Berkeley's CS174](http://www.cs.berkeley.edu/~jfc/cs174/lecs/)  
+[Regev's lattice course (2004)](http://www.cims.nyu.edu/~regev/teaching/lattices_fall_2004/)  
 
 Links
 -----
