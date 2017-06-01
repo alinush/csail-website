@@ -1,25 +1,24 @@
-<title>Communication</title>
-
-Research
---------
+<title>Communication, research et al</title>
 
 Technical writing
 -----------------
 
- * [Good Writing](https://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm), by Marc H. Raibert, January 1985
- * [Tiemersma's Simple Rules for Coherent Writing](https://www.ics.uci.edu/~goodrich/writing.html), by Michael Goodrich
- * [How to write a great research paper](how-to-write-a-great-research-paper.pdf), by Simon Peyton Jones
+ * [Good Writing](https://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm), by Marc H. Raibert, January 1985 [[pdf]](good-writing.pdf)
+ * [Tiemersma's Simple Rules for Coherent Writing](https://www.ics.uci.edu/~goodrich/writing.html), by Michael Goodrich [[pdf]](tiemersma-coherent-writing.pdf)
+ * [How to write a great research paper (PDF)](how-to-write-a-great-research-paper.pdf), by Simon Peyton Jones
  * [How (and How Not) to Write a Good Systems Paper](https://www.usenix.org/legacy/publications/library/proceedings/dsl97/good_paper.html), by Roy Levin and David D. Redell
  * [Write right for readers](http://www.maths.adelaide.edu.au/anthony.roberts/LaTeX/ltxwrite.php), by Anthony Roberts
  * [Research abstracts](http://writing.wisc.edu/Handbook/presentations_abstracts.html), by Univ. of Wisconsin
- * [How to write an abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html), by Philip Koopman
- * [The science of scientific writing](science-of-writing.pdf), by George D. Gopen and Judith A. Swan
- * [Writing Scholarly Papers](writing-scholarly-papers.pdf), by Stephen A. Edwards
- - [That which is restrictive](that-which-is-restrictive.pdf), by Stan Carey
+ * [How to write an abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html), by Philip Koopman [[pdf]](how-to-write-an-abstract.pdf)
+ * [The science of scientific writing (PDF)](science-of-writing.pdf), by George D. Gopen and Judith A. Swan
+ * [Writing Scholarly Papers (PDF)](writing-scholarly-papers.pdf), by Stephen A. Edwards
+ - [That which is restrictive (PDF)](that-which-is-restrictive.pdf), by Stan Carey
+ * [How to write a paper](http://www.wisdom.weizmann.ac.il/~oded/writing.html), by Oded Goldreich [[pdf 1]](writing.pdf), [[pdf 2]](re-writing.pdf), [[txt]](writing.txt)
+ * [Writing technical articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html), by Columbia University people
 
 My own notes:
 
- * [Basics of Scientific Writing](basics-of-scientific-writing/), at MIT on Oct. 7th, 2015
+ * [Basics of Scientific Writing](basics-of-scientific-writing/index.html), at MIT on Oct. 7th, 2015
 
 **Stuff to remember:**
  
@@ -46,15 +45,13 @@ Talks
 -----
 
  * [Some tips for Giving Good Research Talks](https://www.ics.uci.edu/~goodrich/presenting.html), by Michael Goodrich
- * [How to give a good research talk](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk-html.html), by Simon Peyton Jones
-   + [Slides](giving-a-talk-slides.pdf)
+ * [How to give a good/great research talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/), by Simon Peyton Jones, [[pdf 1]](giving-a-talk-slides.pdf), [[pdf 2]](how-to-give-a-great-research-talk.pdf)
  * [How to give (and make) a presentation](https://alinush.github.io/How-to-give-a-presentation/), by Rob Johnson and Michael Bender
+ * [On conference speaking](http://hynek.me/articles/speaking/n-conference-speaking.pdf), by Hynek Schlawack [[pdf]](on-conference-speaking.pdf)
 
-All combined
-------------
+Extra stuff
+-----------
 
- * [Research skills](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm), by Simon Peyton Jones (MSR)
+ * [Research skills](http://www.microsoft.com/en-us/research/people/simonpj), by Simon Peyton Jones (MSR)
  * [Advice on research and writing](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html), by Mark Leone
  * [Research tips](http://www.ifs.tuwien.ac.at/~silvia/research-tips/), by Silvia Miksch
- * [How to write a paper](http://www.wisdom.weizmann.ac.il/~oded/writing.html), by Oded Goldreich
- * [Writing technical articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html), by Columbia University people

@@ -1,0 +1,95 @@
+
+SOME BASIC PRINCIPLES
+
+Research is a highly nontrivial human activity and there
+is a lot to say on it. But little is typically said.
+I wish to deviate from that tradition
+
+1. Why do we write papers?
+
+Almost all human activities have a purpose,
+and understanding the purpose is instrumental to
+discussing how to conduct that activity.
+
+The purpose of writing papers is to communicate a set of ideas
+to people who can use them and/or develop them farther.
+(The cynical answer by which the purpose is to promote
+an academic career will not do; it does not identify what
+promotes such a career -- serving the scientific process does.)
+
+2. Identifying they key idea(s) in the paper.
+
+3. Identifying the relevant research community and its needs.
+
+N.B.: These are not only the experts but rather also the novice.
+
+4. The "economics" of writing-vs-reading.
+
+* The writer is better positioned to clarify the ideas. 
+  It will take her/him less energy to clarify.
+* The writer serves many readers. So his time saves the time of many.
+
+5. Serving the readers.
+
+* Focus on the needs of the readers, not the desires of the writer.
+* Elaborate on the novel conceptual steps, 
+  not on the standard technical derivation.
+
+Novice feel insecure about the standard techniques and tend to diminish
+their own innovations.  Thus, they tend to focus on the standard derivations, 
+and hide their innovative conceptual steps. Both things are very wrong.
+
+
+PITFALLS
+
+* checklists (of things the author wishes to say).
+
+* obscure generality (rather the right level of generality).
+
+* idiosyncrasies: 
+  using terms and/or symbols that bear a meaning only to the writer.
+
+* lack of hierarchy and structure.
+
+* Talmudism: discussing ramifications and critiques prematurely.
+
+* labyrinth of implicit pointers (rather than explicit references).
+
+* sentences with complex logical structure
+
+* mixure of Math and text that is hard to parse
+
+* cumbersome notations and terms
+
+
+THE PAPER ITSELF
+
+No canonical model. Fit the structure to contents.
+
+* Title (informative) and author list (alphabetical).
+
+* Abstract (informative, self-contained in high level)
+
+* Introduction
+
+Note that some readers may decide to read based on the title,
+some may only read the abstract, and more just the introduction.
+Serve them all...
+
+* Body
+
+- discuss definitional choices: 
+  are they immaterial, for simplification, or essential?
+- emphasize novel conceptual steps
+- use a single numbering system for technical items
+- use informative citations (e.g., include Thm number).
+
+* Conclusions (justified only in 5% of papers).
+
+Should discuss issues that cannot be discussed in the introduction,
+since they can be well-understood only when reading the body.
+Only such issues should be discussed in the ending section,
+rather than in the introduction (e.g., a subsection of it).
+
+* References and Acknowledgements
+
