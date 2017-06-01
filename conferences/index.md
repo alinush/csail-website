@@ -38,7 +38,7 @@ Also see [confsearch.org](http://www.confsearch.org/confsearch/faces/pages/topic
  | Deadline   |        Name     |  Notification | Location                  | When       | Accepted papers link                                                                                           |
  | ---------- | :-------------- | :------------ | :------------------------ | :--------- | :------------------------------------------------------------------------------------------------------------- |
  | 02/28/2017 | PETS'17 (i4)    | 05/01/2017    | Minneapolis, MN           | 07/18/2017 | no acc, [PETS'17](https://petsymposium.org/cfp17.php) (check ???)
- | 02/16/2017 | USENIX Sec'17   | 05/12/2017    | Vancouver, BC             | 08/16/2017 | no acc, [USENIX Sec'17](https://www.usenix.org/conference/usenixsecurity17) (check early-July)
+ | 02/16/2017 | USENIX Sec'17   | 05/12/2017    | Vancouver, BC             | 08/16/2017 | &#10004; [USENIX Sec'17](https://www.usenix.org/conference/usenixsecurity17/technical-sessions)
  | 02/09/2017 | CRYPTO'17       | 05/08/2017    | UCSB, CA                  | 08/20/2017 | no acc, [CRYPTO'17](https://www.iacr.org/conferences/crypto2017/acceptedpapers.html) (check mid-June)
  | 02/03/2017 | ACNS'17         | 04/07/2017    | Kanazawa, Japan           | 07/10/2017 | no acc, [ACNS'17](https://cy2sec.comm.eng.osaka-u.ac.jp/acns2017/program.html) (check late-April)
  | 12/15/2016 | BITCOIN'17      | 01/30/2017    | Malta                     | 04/07/2017 | **toread**, [BITCOIN'17](http://fc17.ifca.ai/bitcoin/schedule.html)
