@@ -48,6 +48,7 @@ Talks
  * [How to give a good/great research talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/), by Simon Peyton Jones, [[pdf 1]](giving-a-talk-slides.pdf), [[pdf 2]](how-to-give-a-great-research-talk.pdf)
  * [How to give (and make) a presentation](https://alinush.github.io/How-to-give-a-presentation/), by Rob Johnson and Michael Bender
  * [On conference speaking](http://hynek.me/articles/speaking/n-conference-speaking.pdf), by Hynek Schlawack [[pdf]](on-conference-speaking.pdf)
+ - [Making a presentation](https://www.cs.cmu.edu/~mihaib/presentation-rules.html), by Mihai Budiu [[pdf]](mihai-budiu-making-a-presentation.pdf)
 
 Extra stuff
 -----------
