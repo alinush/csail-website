@@ -34,6 +34,16 @@ Or use `-to [end time hh:mm:ss.milisecs]` to indicate the time at which to stop 
 [ViM](../vim/)
 -----------
 
+emacs
+-----
+
+Commands like `M-x` are executed by typing the Meta key + x (on Linux, Meta key is Alt)
+
+Commands like `C-x` are executed by typing the Ctrl key + x
+
+ - `C-x o`: switches buffers (panes/windows)
+ - `C-x C-c`: exits emacs
+
 [Git](../git/)
 -----------
 
