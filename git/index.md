@@ -38,3 +38,29 @@ The `i`-th to last commit: `git show HEAD~i`
 ### Adding a submodule
 
     git submodule add --name 6.857-spring-2105 git@github.com:alinush/6.857-lecture-notes.git 6.857-spring-2015
+
+### Update Git submodule to latest commit from origin
+
+[Source here](https://stackoverflow.com/questions/5828324/update-git-submodule-to-latest-commit-on-origin).
+
+    # get the submodule initially
+    git submodule add ssh://bla submodule_dir
+    git submodule init
+
+    # time passes, submodule upstream is updated
+    # and you now want to update
+
+    # change to the submodule directory
+    cd submodule_dir
+
+    # checkout desired branch
+    git checkout master
+
+    # update
+    git pull
+
+    # get back to your project root
+    cd ..
+
+    # now the submodules are in the state you want, so
+    git commit -am "Pulled down update to submodule_dir"
