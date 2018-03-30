@@ -70,3 +70,14 @@ cd ..
 # now the submodules are in the state you want, so
 git commit -am "Pulled down update to submodule_dir"
 </code></pre>
+
+<h3>Remove a Git submodule</h3>
+
+<p>From <a href="https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule">SO post</a></p>
+
+<pre><code>mv a/submodule a/submodule_tmp
+git submodule deinit -f -- a/submodule
+rm -rf .git/modules/a/submodule
+git rm -f a/submodule
+# Note: a/submodule (no trailing slash)
+</code></pre>

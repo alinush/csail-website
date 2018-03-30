@@ -64,3 +64,13 @@ The `i`-th to last commit: `git show HEAD~i`
 
     # now the submodules are in the state you want, so
     git commit -am "Pulled down update to submodule_dir"
+
+### Remove a Git submodule
+
+From [SO post](https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule)
+
+    mv a/submodule a/submodule_tmp
+    git submodule deinit -f -- a/submodule
+    rm -rf .git/modules/a/submodule
+    git rm -f a/submodule
+    # Note: a/submodule (no trailing slash)
